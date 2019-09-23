@@ -21,7 +21,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">16b127f5-1f43-4a12-bea4-cfac4ccb1221</Key>
+			<Key d:type="cDeltaString">cdf0fd78-7b1b-4d10-a9bb-028948562488</Key>
 		</Localisation-cUserLocalisedString>
 	</DisplayName>
 	<Description>
@@ -35,7 +35,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">37b24096-387a-49ab-bd32-e7bc998969f7</Key>
+			<Key d:type="cDeltaString">3286e1d3-cc5c-428f-8b08-8287ace73e6b</Key>
 		</Localisation-cUserLocalisedString>
 	</Description>
 	<Briefing>
@@ -49,7 +49,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">3b43ae61-3afe-41e1-b1b1-18606111bac6</Key>
+			<Key d:type="cDeltaString">565d163d-a6cc-44ad-9de9-c466f944e3d1</Key>
 		</Localisation-cUserLocalisedString>
 	</Briefing>
 	<StartLocation>
@@ -63,7 +63,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">03ca7153-b1de-4e79-822d-d0ef02ebe9e7</Key>
+			<Key d:type="cDeltaString">92a67fda-65f3-4479-8d96-4525b0c92bb7</Key>
 		</Localisation-cUserLocalisedString>
 	</StartLocation>
 	<ScenarioClass d:type="cDeltaString">eFreeRoamScenarioClass</ScenarioClass>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="182093554">
+		<sDriverFrontEndDetails d:id="183119906">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -126,7 +126,7 @@
 					<Polish d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</Polish>
 					<Russian d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">39e37a7c-44e5-4f38-9e80-229eee17bcef</Key>
+					<Key d:type="cDeltaString">a41a3b05-5ddf-426f-b1e4-10d0d6de0ade</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -142,7 +142,7 @@
 			</LocoBP>
 			<StartLocation>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
+					<English d:type="cDeltaString">Vladislav</English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
 					<German d:type="cDeltaString"></German>
@@ -151,15 +151,15 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">d9897c9c-a9ed-4e59-ade6-261512d0bc55</Key>
+					<Key d:type="cDeltaString">e4cf0ebc-f3bd-402f-bc33-5dcf87bbf42a</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">vR_Steam_ProLine</LocoAuthor>
 			<FilePath d:type="cDeltaString">vR_Steam_ProLine\vR_BR101_VRot_EL\Elloks\BR101</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="1F0F4F9B77F72F40" d:precision="string">15.9833</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="FD3FB15B1B9B4840" d:precision="string">49.2118</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="000000A0B9BD7840" d:precision="string">395.858</Height>
+			<Longitude d:type="sFloat64" d:alt_encoding="57EE569A77F72F40" d:precision="string">15.9833</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="E022B45B1B9B4840" d:precision="string">49.2118</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000080B9BD7840" d:precision="string">395.858</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
@@ -325,6 +325,30 @@
 				</cGUID>
 			</Guid>
 			<Name d:type="cDeltaString">TYeb￭ 4</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="185767974">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5319387284600941863</e>
+						<e d:type="sUInt64">7060720467984871095</e>
+					</UUID>
+					<DevString d:type="cDeltaString">515e6d27-428d-49d2-b76e-9138dbb7fc61</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">Vladislav 1</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="185768148">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">4777135740466303967</e>
+						<e d:type="sUInt64">2426689510309947308</e>
+					</UUID>
+					<DevString d:type="cDeltaString">465113df-cba5-424b-ace7-30a24055ad21</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">Vladislav 2</Name>
 		</cScenarioProperties-cGuidToNameMapping>
 	</NamedEntity>
 	<Condition/>
