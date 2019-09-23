@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cRouteProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="48298368">
+<cRouteProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="129333536">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -119,9 +119,9 @@
 	<LockCounter d:type="sUInt32">1</LockCounter>
 	<Locked d:type="bool">0</Locked>
 	<MapProjection>
-		<cMapProjectionOwner d:id="128817930">
+		<cMapProjectionOwner d:id="48206186">
 			<MapProjection>
-				<cUTMMapProjection d:id="130980208">
+				<cUTMMapProjection d:id="131091920">
 					<Origin>
 						<sGeoPosition>
 							<Lat d:type="sFloat64" d:alt_encoding="DD240681959B4840" d:precision="string">49.2155</Lat>
@@ -141,11 +141,11 @@
 		</cMapProjectionOwner>
 	</MapProjection>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="196731082">
+		<iBlueprintLibrary-cBlueprintSetID d:id="181726736">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">CologneKoblenz</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="196731084">
+		<iBlueprintLibrary-cBlueprintSetID d:id="181726738">
 			<Provider d:type="cDeltaString">Kuju</Provider>
 			<Product d:type="cDeltaString">RailSimulator</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
