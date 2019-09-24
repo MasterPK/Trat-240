@@ -1,6 +1,6 @@
 # Trať 240 - Fiktivní verze
 
-Jedná se o **FIKTIVNÍ** trať která má připomínat Trať 240 v úseku Krahulov - Brno. Signalizace je [německá](https://en.wikipedia.org/wiki/German_railway_signalling) s funkčním PZB. Většina tratě je elektrifikovaná a částečně dvoukolejná. Umístění kolejí a objektů neodpovídá realitě!
+Jedná se o **FIKTIVNÍ** trať, která má připomínat Trať 240 v úseku Krahulov - Brno. Signalizace je [německá](https://en.wikipedia.org/wiki/German_railway_signalling) s funkčním PZB. Většina tratě je elektrifikovaná a částečně dvoukolejná. Umístění kolejí a objektů neodpovídá realitě!
 
 Jedná se o amatérský projekt (můj první pokus o mapu do TS metodou pokus-omyl), mapa není nijak detailně propracovaná, vytvářím ji pro radost ve svém volném čase a podle toho jak chci. Nedržím se striktně reality.
 
@@ -12,14 +12,14 @@ Momentálně jsou hotové koleje z Krahulova do Vladislavi. Návěstidla, rychlo
 
 ## Technické podrobnosti
 
-ID pro vložení do Train Simulator: 4774ce76-bf43-4c5e-9ee2-910f7d92b863
-Hra je primárně určena pro TS2019 64-bit a novější, ale pravděpodobně bude fungovat i na jiných verzích.
+ID pro vložení do Train Simulator: 4774ce76-bf43-4c5e-9ee2-910f7d92b863.
+Trať je primárně určena pro TS2019 64-bit a novější, ale pravděpodobně bude fungovat i na jiných verzích.
 
 ### Instalace
 
-Aktuální použitelná verze a historie verzí ke stažení v [Releases](https://github.com/MasterPK/Trat-240/releases)
+Aktuální použitelná verze a historie verzí ke stažení v [Releases](https://github.com/MasterPK/Trat-240/releases).
 
-Pro instalaci si nejprve stáhněte všechny vyžadované DLC. Poté si stáhněte zip soubory z GitHub se všemi soubory a ty extrahujte do Railworks/Content/Routes/4774ce76-bf43-4c5e-9ee2-910f7d92b863
+Pro instalaci si nejprve stáhněte všechny vyžadované DLC. Poté si stáhněte zip soubory z GitHub se všemi soubory a ty extrahujte do Railworks/Content/Routes/4774ce76-bf43-4c5e-9ee2-910f7d92b863.
 
 ## Vyžadované DLC
 
