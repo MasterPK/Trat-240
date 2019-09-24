@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="74915462">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="171059762">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="184700426">
+		<sDriverFrontEndDetails d:id="176788378">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -126,7 +126,7 @@
 					<Polish d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</Polish>
 					<Russian d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">6396cf6f-43a4-4b41-88e9-3b2fe598c92f</Key>
+					<Key d:type="cDeltaString">e27b7fc0-61f8-468f-b900-95e78d761b69</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -142,7 +142,7 @@
 			</LocoBP>
 			<StartLocation>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Vladislav</English>
+					<English d:type="cDeltaString">Vladislav - Zastávka</English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
 					<German d:type="cDeltaString"></German>
@@ -157,30 +157,30 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">vR_Steam_ProLine</LocoAuthor>
 			<FilePath d:type="cDeltaString">vR_Steam_ProLine\vR_BR101_VRot_EL\Elloks\BR101</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="F78FD59977F72F40" d:precision="string">15.9833</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="08C5B65B1B9B4840" d:precision="string">49.2118</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="000000A0B9BD7840" d:precision="string">395.858</Height>
+			<Longitude d:type="sFloat64" d:alt_encoding="FEF0B59877F72F40" d:precision="string">15.9833</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="47EBBA5B1B9B4840" d:precision="string">49.2118</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000060B9BD7840" d:precision="string">395.858</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48636732">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48803690">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">CologneKoblenz</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48636734">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48803692">
 			<Provider d:type="cDeltaString">Kuju</Provider>
 			<Product d:type="cDeltaString">RailSimulator</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48636736">
+		<iBlueprintLibrary-cBlueprintSetID d:id="48803694">
 			<Provider d:type="cDeltaString">vR_Steam_ProLine</Provider>
 			<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="131372868">
+		<cOwnedEntity d:id="131543992">
 			<Component>
-				<cEditorSceneryRender d:id="169726310">
+				<cEditorSceneryRender d:id="170384684">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -188,16 +188,16 @@
 					<Palette1Index d:type="sUInt8">28</Palette1Index>
 					<Palette2Index d:type="sUInt8">200</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="169226190">
+				<cPosOri d:id="169812834">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="169226196">
+						<cFarMatrix d:id="169812840">
 							<Height d:type="sFloat32" d:alt_encoding="000000007F487940" d:precision="string">404.531</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="169226203">
+								<cFarVector2 d:id="169812847">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -231,7 +231,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="131445138">
+				<cScriptComponent d:id="131166200">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -276,61 +276,61 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275018">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103676">
 			<Provider d:type="cDeltaString">vR_Steam_ProLine</Provider>
 			<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275020">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103678">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR442Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275022">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103680">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Kal000px-CD380</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275024">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103682">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Hekl</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275026">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103684">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Glocky</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275028">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103686">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">DavidJavurek</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275030">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103688">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Majkl</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275032">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103690">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">OJanis</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275034">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103692">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Milva</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275036">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103694">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Roman72</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275038">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103696">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Sasule</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275040">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103698">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Svec</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="48275042">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126103700">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Trunda</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
 	<NamedEntity>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157428">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412014">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -342,7 +342,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Krahulov 1</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157170">
+		<cScenarioProperties-cGuidToNameMapping d:id="131411768">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -354,7 +354,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Krahulov 4</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157896">
+		<cScenarioProperties-cGuidToNameMapping d:id="131411996">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -366,7 +366,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Krahulov 5</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157818">
+		<cScenarioProperties-cGuidToNameMapping d:id="131411804">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -378,7 +378,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Krahulov 6</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157590">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412404">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -390,7 +390,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Krahulov 7</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157566">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412200">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -402,7 +402,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Krahulov 8</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157596">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412176">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -414,7 +414,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Krahulov N1/2</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157650">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412074">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -426,7 +426,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Krahulov N2/3</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157782">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412104">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -438,7 +438,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Krahulov O1</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157764">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412278">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -450,7 +450,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Krahulov O2</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157956">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412338">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -462,7 +462,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">TYeb￭ - Borovina</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131158214">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412434">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -474,7 +474,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">TYeb￭ 1/1</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131158046">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412776">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -486,7 +486,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">TYeb￭ 2/2</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131158088">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412674">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -498,7 +498,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">TYeb￭ 2/3</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131158274">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412764">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -510,7 +510,19 @@
 			</Guid>
 			<Name d:type="cDeltaString">TYeb￭ 4</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131158298">
+		<cScenarioProperties-cGuidToNameMapping d:id="163133370">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5061550554251016235</e>
+						<e d:type="sUInt64">949004312003329458</e>
+					</UUID>
+					<DevString d:type="cDeltaString">6ed0382b-3d69-463e-b2bd-45cb648a2b0d</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">Vladislav - Zast￡vka</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="131412500">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -522,7 +534,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Vladislav 1</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="131157926">
+		<cScenarioProperties-cGuidToNameMapping d:id="131412632">
 			<Guid>
 				<cGUID>
 					<UUID>
