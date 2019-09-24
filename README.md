@@ -37,3 +37,5 @@ Pro instalaci si nejprve stáhněte všechny vyžadované DLC. Poté si stáhně
 
 Pro scénáře doporučuji skvělý model lokomotivy Škoda 109E pod označením ČD 380 od [JachyHm](https://rw.jachyhm.cz/download/2019/04/je-to-tu/) a IC vozy od [Dema](https://rw.jachyhm.cz/download/2019/03/demova-tvorba-do-railworks/).
 
+
+Projekt je distribuován pod licencí MIT.
