@@ -21,7 +21,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">7f3ede5a-baec-406e-8f5f-77613ec3f05e</Key>
+			<Key d:type="cDeltaString">892ac7d0-556c-4514-a37d-21ea70982a32</Key>
 		</Localisation-cUserLocalisedString>
 	</DisplayName>
 	<Description>
@@ -35,7 +35,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">c47ad5e5-0f07-4649-bccb-f7b592f6bedf</Key>
+			<Key d:type="cDeltaString">79080205-8531-4557-90ce-d27e0ccd8c78</Key>
 		</Localisation-cUserLocalisedString>
 	</Description>
 	<Briefing>
@@ -49,7 +49,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">29558b75-b880-4724-8e95-182a5f2019c6</Key>
+			<Key d:type="cDeltaString">ff25b77f-f631-4d9c-84e7-6d17d8e4c1c2</Key>
 		</Localisation-cUserLocalisedString>
 	</Briefing>
 	<StartLocation>
@@ -63,7 +63,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">a12f9548-2a31-4f26-92db-001bb567ad20</Key>
+			<Key d:type="cDeltaString">1a0e7333-935b-4619-90be-04c346f427fe</Key>
 		</Localisation-cUserLocalisedString>
 	</StartLocation>
 	<ScenarioClass d:type="cDeltaString">eFreeRoamScenarioClass</ScenarioClass>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="1217387056">
+		<sDriverFrontEndDetails d:id="1052519528">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -112,32 +112,32 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">7a36c29b-f0ee-4551-88db-9b67ce73a4b4</Key>
+					<Key d:type="cDeltaString">ae8ebb10-ac6d-4499-b4f1-7e2b6e066743</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
 			<LocoName>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Vectron ELL</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString">Vectron ELL</German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
+					<English d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</English>
+					<French d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</French>
+					<Italian d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</Italian>
+					<German d:type="cDeltaString">vR BR101 ProLine VRot dynamische Nummer</German>
+					<Spanish d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</Spanish>
+					<Dutch d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</Dutch>
+					<Polish d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</Polish>
+					<Russian d:type="cDeltaString">vR BR101 ProLine traffic red dynamic number</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">b81eb8fd-ce33-42dc-a1e5-38be05276ea8</Key>
+					<Key d:type="cDeltaString">57219ccc-7487-4140-9d78-ababe20ec30c</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
 				<iBlueprintLibrary-cAbsoluteBlueprintID>
 					<BlueprintSetID>
 						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">RSSLO</Provider>
-							<Product d:type="cDeltaString">BR193</Product>
+							<Provider d:type="cDeltaString">vR_Steam_ProLine</Provider>
+							<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
 						</iBlueprintLibrary-cBlueprintSetID>
 					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\Engine\ELL\Vectron_ELL.xml</BlueprintID>
+					<BlueprintID d:type="cDeltaString">Elloks\BR101\BR101-VRot_DynNum.xml</BlueprintID>
 				</iBlueprintLibrary-cAbsoluteBlueprintID>
 			</LocoBP>
 			<StartLocation>
@@ -151,84 +151,22 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">afd32a45-f8d9-46e2-bcb9-382dcebf6336</Key>
+					<Key d:type="cDeltaString">5b7904fa-6e4b-4b11-a31a-e6dbaeb026fa</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">RSSLO</LocoAuthor>
-			<FilePath d:type="cDeltaString">RSSLO\BR193\RailVehicles\Engine\ELL</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="000000402E273040" d:precision="string">16.153</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="000000E03D9A4840" d:precision="string">49.205</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="000000208B557840" d:precision="string">389.346</Height>
-			<PlayerDriver d:type="bool">0</PlayerDriver>
-		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="1217391792">
-			<ServiceName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Service2</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">41f74192-f977-49d2-ae52-c0acf1df4176</Key>
-				</Localisation-cUserLocalisedString>
-			</ServiceName>
-			<LocoName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Vectron ELL AC/DC</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString">Vectron ELL AC/DC</German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">be034641-3632-4771-957f-087f370116e0</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">RSSLO</Provider>
-							<Product d:type="cDeltaString">BR193</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\Engine\ELL_AC_DC\Vectron_ELL_AC_DC.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">d16133a3-0bd0-4835-93f9-21844c0863c5</Key>
-				</Localisation-cUserLocalisedString>
-			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">RSSLO</LocoAuthor>
-			<FilePath d:type="cDeltaString">RSSLO\BR193\RailVehicles\Engine\ELL_AC_DC</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="000000804B243040" d:precision="string">16.1418</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="000000A0EA9A4840" d:precision="string">49.2103</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="0000006061867840" d:precision="string">392.399</Height>
+			<LocoAuthor d:type="cDeltaString">vR_Steam_ProLine</LocoAuthor>
+			<FilePath d:type="cDeltaString">vR_Steam_ProLine\vR_BR101_VRot_EL\Elloks\BR101</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="0000006085283040" d:precision="string">16.1583</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="000000C04F994840" d:precision="string">49.1977</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000008AFC7640" d:precision="string">367.784</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
 		<iBlueprintLibrary-cBlueprintSetID d:id="1045750472">
-			<Provider d:type="cDeltaString">RSSLO</Provider>
-			<Product d:type="cDeltaString">BR193</Product>
+			<Provider d:type="cDeltaString">vR_Steam_ProLine</Provider>
+			<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
@@ -330,19 +268,72 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1025160816">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1455704856">
 			<Provider d:type="cDeltaString">RSSLO</Provider>
 			<Product d:type="cDeltaString">BR193</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="1455704864">
+			<Provider d:type="cDeltaString">vR_Steam_ProLine</Provider>
+			<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
-	<NamedEntity/>
+	<NamedEntity>
+		<cScenarioProperties-cGuidToNameMapping d:id="951798888">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">4625759753984377637</e>
+						<e d:type="sUInt64">9842142929417419454</e>
+					</UUID>
+					<DevString d:type="cDeltaString">e8898325-fffc-4031-be3a-8c30d9509688</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">N￡mae nad Oslavou N1</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="951794968">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5102350033595638519</e>
+						<e d:type="sUInt64">15844294720347294910</e>
+					</UUID>
+					<DevString d:type="cDeltaString">782ba2f7-3052-46cf-becc-e5fa193ee2db</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">N￡mae nad Oslavou N2</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="1218331672">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5009053052498263497</e>
+						<e d:type="sUInt64">17796912910021582734</e>
+					</UUID>
+					<DevString d:type="cDeltaString">4f3ebdc9-bb36-4583-8e5f-66e4ff55fbf6</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">N￡mae nad Oslavou S3</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+		<cScenarioProperties-cGuidToNameMapping d:id="951826728">
+			<Guid>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5384383873042400670</e>
+						<e d:type="sUInt64">13493319759066781349</e>
+					</UUID>
+					<DevString d:type="cDeltaString">d708c59e-2c9a-4ab9-a556-ef87d4e641bb</DevString>
+				</cGUID>
+			</Guid>
+			<Name d:type="cDeltaString">N￡mae nad Oslavou S4</Name>
+		</cScenarioProperties-cGuidToNameMapping>
+	</NamedEntity>
 	<Condition/>
 	<DeferredEvent/>
 	<CheckedCondition/>
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">DBB69A875DD5F0DB6AEA1007601D727F</MD5>
+	<MD5 d:type="cDeltaString">71A44739643480AAF816DBAACA00F555</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
