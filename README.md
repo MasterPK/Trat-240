@@ -1,6 +1,6 @@
 # Trať 240 - Fiktivní verze
 
-Jedná se o **FIKTIVNÍ** trať, která má připomínat Trať 240 v úseku Krahulov - Brno. Signalizace je [německá](https://en.wikipedia.org/wiki/German_railway_signalling) s funkčním PZB. Většina tratě je elektrifikovaná a částečně dvoukolejná. Umístění kolejí a objektů neodpovídá realitě!
+Jedná se o **FIKTIVNÍ** trať, která má připomínat Trať 240 v úseku Krahulov - Brno. Signalizace je [německá](https://en.wikipedia.org/wiki/German_railway_signalling) s funkčním PZB a v některých úsecích také LZB. Většina tratě je elektrifikovaná a částečně dvoukolejná. Umístění kolejí a objektů může i nemusí odpovídat realitě!
 
 Jedná se o amatérský projekt (můj první pokus o mapu do TS metodou pokus-omyl), mapa není nijak detailně propracovaná, vytvářím ji pro radost ve svém volném čase a podle toho jak chci. Nedržím se striktně reality.
 
@@ -8,7 +8,7 @@ V [Issues](https://github.com/MasterPK/Trat-240/issues "Issues") můžete hlási
 
 ## Aktuální stav
 
-Momentálně jsou hotové koleje z Krahulova do Vladislavi. Návěstidla, rychlostníky, výhybly a přejezdy funkční. Objekty okolo jsou sporadicky. Pro další informace o stavu práce prohlédněte [Projects](https://github.com/MasterPK/Trat-240/projects).
+Momentálně jsou hotové koleje z Krahulova do Vladislavi. Návěstidla, rychlostníky, výhybky a přejezdy funkční. Objekty okolo jsou sporadicky. Pro další informace o stavu práce prohlédněte [Projects](https://github.com/MasterPK/Trat-240/projects).
 
 ## Technické podrobnosti
 
@@ -34,6 +34,7 @@ Pro instalaci si nejprve stáhněte všechny vyžadované DLC. Poté si stáhně
 - [CS TerTex](http://modely-msts.cz/RW/CS_TerTex.rar)
 - [Bytovka](http://modely-msts.cz/RW/bytovka.rar)
 - [Domky](http://modely-msts.cz/RW/domy.rar)
+- [Německé poloměry kolejí a výhybek](https://rail-sim.de/forum/wsif/index.php/Entry/2881-Deutsche-Gleis-und-Weichenradien/)
 
 Pro scénáře doporučuji skvělý model lokomotivy Škoda 109E pod označením ČD 380 od [JachyHm](https://rw.jachyhm.cz/download/2019/04/je-to-tu/) a IC vozy od [Dema](https://rw.jachyhm.cz/download/2019/03/demova-tvorba-do-railworks/).
 
