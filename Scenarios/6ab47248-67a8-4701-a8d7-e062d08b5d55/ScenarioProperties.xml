@@ -100,69 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="195799472">
-			<ServiceName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Service1</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">fb43aab5-af01-4a5e-893f-1326b51b9e7c</Key>
-				</Localisation-cUserLocalisedString>
-			</ServiceName>
-			<LocoName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">ES64U2 MRCE</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">16dff4fd-bf4c-4f36-8780-79e2e4eb5f97</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">RSC</Provider>
-							<Product d:type="cDeltaString">ES64Pack01</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\ES64U2\Default\ES64U2_MRCE.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">c0c6a969-c584-43d6-8574-0a6fb627bb6e</Key>
-				</Localisation-cUserLocalisedString>
-			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">RSC</LocoAuthor>
-			<FilePath d:type="cDeltaString">RSC\ES64Pack01\RailVehicles\ES64U2\Default</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="3C8C024897423040" d:precision="string">16.2601</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="5E04A86157974840" d:precision="string">49.1824</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000060EB717E40" d:precision="string">487.12</Height>
-			<PlayerDriver d:type="bool">0</PlayerDriver>
-		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="195801784">
+		<sDriverFrontEndDetails d:id="195799336">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service4</English>
@@ -224,7 +162,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="0000000061867840" d:precision="string">392.399</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="195799812">
+		<sDriverFrontEndDetails d:id="195800424">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service3</English>
@@ -250,7 +188,7 @@
 					<Polish d:type="cDeltaString">vR BR101 ProLine Stadtwerke</Polish>
 					<Russian d:type="cDeltaString">vR BR101 ProLine Stadtwerke</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">5d701f8d-ad86-4e43-ace5-bf272db187cc</Key>
+					<Key d:type="cDeltaString">0b744aac-8e4b-47e0-9345-f378ebd64956</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -290,13 +228,9 @@
 	<RequiredSet>
 		<iBlueprintLibrary-cBlueprintSetID d:id="49473186">
 			<Provider d:type="cDeltaString">RSC</Provider>
-			<Product d:type="cDeltaString">ES64Pack01</Product>
-		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="49473188">
-			<Provider d:type="cDeltaString">RSC</Provider>
 			<Product d:type="cDeltaString">ICE3Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="49473190">
+		<iBlueprintLibrary-cBlueprintSetID d:id="49473188">
 			<Provider d:type="cDeltaString">vR_Steam_ProLine</Provider>
 			<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
@@ -489,7 +423,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">AB9097E23E73D3D3674EB408E5038C9C</MD5>
+	<MD5 d:type="cDeltaString">CD779D262369FF4609AD8508DF9E904B</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
