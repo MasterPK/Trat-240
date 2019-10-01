@@ -35,6 +35,7 @@ Pro instalaci si nejprve stáhněte všechny vyžadované DLC. Poté si stáhně
 - [Bytovka](http://modely-msts.cz/RW/bytovka.rar)
 - [Domky](http://modely-msts.cz/RW/domy.rar)
 - [Německé poloměry kolejí a výhybek](https://rail-sim.de/forum/wsif/index.php/Entry/2881-Deutsche-Gleis-und-Weichenradien/)
+- [NS Station Objects & scenery](https://www.christrains.com/en/ts_scenery.html)
 
 Pro scénáře doporučuji skvělý model lokomotivy Škoda 109E pod označením ČD 380 od [JachyHm](https://rw.jachyhm.cz/download/2019/04/je-to-tu/) a IC vozy od [Dema](https://rw.jachyhm.cz/download/2019/03/demova-tvorba-do-railworks/).
 
