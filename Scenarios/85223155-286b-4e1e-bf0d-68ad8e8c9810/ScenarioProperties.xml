@@ -99,8 +99,76 @@
 	<LocoClass d:type="cDeltaString">LOCO_NO_CLASS</LocoClass>
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
-	<FrontEndDriverList/>
-	<RequiredSet/>
+	<FrontEndDriverList>
+		<sDriverFrontEndDetails d:id="876529728">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Service1</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">48511dd0-e54a-4f0e-a00d-1af30cb16834</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">ICE 4</English>
+					<French d:type="cDeltaString">ICE 4</French>
+					<Italian d:type="cDeltaString">ICE 4</Italian>
+					<German d:type="cDeltaString">ICE 4</German>
+					<Spanish d:type="cDeltaString">ICE 4</Spanish>
+					<Dutch d:type="cDeltaString">ICE 4</Dutch>
+					<Polish d:type="cDeltaString">ICE 4</Polish>
+					<Russian d:type="cDeltaString">ICE 4</Russian>
+					<Other/>
+					<Key d:type="cDeltaString">97f320ea-77b6-454b-aa74-d0954dcef57b</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">3DZUG</Provider>
+							<Product d:type="cDeltaString">3dz_ICE4</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\electric\ice4_won1.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">5e810eba-ac40-46ea-99d0-2fd5b380299e</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">3DZUG</LocoAuthor>
+			<FilePath d:type="cDeltaString">3DZUG\3dz_ICE4\RailVehicles\electric</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="000000E0155E3040" d:precision="string">16.3675</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="00000000A3974840" d:precision="string">49.1847</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000080F7B47340" d:precision="string">315.31</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+	</FrontEndDriverList>
+	<RequiredSet>
+		<iBlueprintLibrary-cBlueprintSetID d:id="884424888">
+			<Provider d:type="cDeltaString">3DZUG</Provider>
+			<Product d:type="cDeltaString">3dz_ICE4</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+	</RequiredSet>
 	<Gizmo>
 		<cOwnedEntity d:id="876521256">
 			<Component>
@@ -216,7 +284,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">CEDFECED1F0B4F5071FBA15AE9D957E0</MD5>
+	<MD5 d:type="cDeltaString">B2589FFD9F563268BA289C7562F7D9FF</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
