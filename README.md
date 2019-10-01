@@ -8,7 +8,8 @@ V [Issues](https://github.com/MasterPK/Trat-240/issues "Issues") můžete hlási
 
 ## Aktuální stav
 
-Momentálně jsou hotové koleje z Krahulova do Vladislavi. Návěstidla, rychlostníky, výhybky a přejezdy funkční. Objekty okolo jsou sporadicky. Pro další informace o stavu práce prohlédněte [Projects](https://github.com/MasterPK/Trat-240/projects).
+Aktuálně je částečně hotový úsek Krahulov-Zastávka.
+Návěstidla, rychlostníky, výhybky a přejezdy funkční. Objekty okolo jsou sporadicky.
 
 ## Technické podrobnosti
 
