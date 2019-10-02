@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="945192800">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="864238384">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="876529728">
+		<sDriverFrontEndDetails d:id="1339967912">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -112,37 +112,12 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">48511dd0-e54a-4f0e-a00d-1af30cb16834</Key>
+					<Key d:type="cDeltaString">d567a782-a2ff-4d53-abea-a6ae1b2dbbc5</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
 			<LocoName>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">ICE 4</English>
-					<French d:type="cDeltaString">ICE 4</French>
-					<Italian d:type="cDeltaString">ICE 4</Italian>
-					<German d:type="cDeltaString">ICE 4</German>
-					<Spanish d:type="cDeltaString">ICE 4</Spanish>
-					<Dutch d:type="cDeltaString">ICE 4</Dutch>
-					<Polish d:type="cDeltaString">ICE 4</Polish>
-					<Russian d:type="cDeltaString">ICE 4</Russian>
-					<Other/>
-					<Key d:type="cDeltaString">97f320ea-77b6-454b-aa74-d0954dcef57b</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">3DZUG</Provider>
-							<Product d:type="cDeltaString">3dz_ICE4</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\electric\ice4_won1.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
+					<English d:type="cDeltaString">DB BR146</English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
 					<German d:type="cDeltaString"></German>
@@ -151,28 +126,53 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">5e810eba-ac40-46ea-99d0-2fd5b380299e</Key>
+					<Key d:type="cDeltaString">32681d04-bce0-4264-a198-6a3ba783c1de</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">DTG</Provider>
+							<Product d:type="cDeltaString">CologneKoblenz</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\DB146-0\Engine\146 Engine.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Zastávka u Brna 4/N</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">67634f3f-a105-4652-826f-ba63c01c147e</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">3DZUG</LocoAuthor>
-			<FilePath d:type="cDeltaString">3DZUG\3dz_ICE4\RailVehicles\electric</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="000000E0155E3040" d:precision="string">16.3675</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="00000000A3974840" d:precision="string">49.1847</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000080F7B47340" d:precision="string">315.31</Height>
+			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
+			<FilePath d:type="cDeltaString">DTG\CologneKoblenz\RailVehicles\Electric\DB146-0\Engine</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="00000040EF5B3040" d:precision="string">16.3591</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="00000000F6974840" d:precision="string">49.1872</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="0000008004137440" d:precision="string">321.189</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="884424888">
-			<Provider d:type="cDeltaString">3DZUG</Provider>
-			<Product d:type="cDeltaString">3dz_ICE4</Product>
+		<iBlueprintLibrary-cBlueprintSetID d:id="865345616">
+			<Provider d:type="cDeltaString">DTG</Provider>
+			<Product d:type="cDeltaString">CologneKoblenz</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="876521256">
+		<cOwnedEntity d:id="852922552">
 			<Component>
-				<cEditorSceneryRender d:id="700429864">
+				<cEditorSceneryRender d:id="1080517088">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -180,16 +180,16 @@
 					<Palette1Index d:type="sUInt8">236</Palette1Index>
 					<Palette2Index d:type="sUInt8">28</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="876521376">
+				<cPosOri d:id="852922672">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="876521400">
+						<cFarMatrix d:id="852922696">
 							<Height d:type="sFloat32" d:alt_encoding="000000A045207440" d:precision="string">322.017</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="876521452">
+								<cFarVector2 d:id="852922748">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -223,7 +223,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="690009336">
+				<cScriptComponent d:id="862827712">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -268,11 +268,11 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="888030168">
+		<iBlueprintLibrary-cBlueprintSetID d:id="865345752">
 			<Provider d:type="cDeltaString">vR_Steam_ProLine</Provider>
 			<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="888030176">
+		<iBlueprintLibrary-cBlueprintSetID d:id="865345760">
 			<Provider d:type="cDeltaString">3DZUG</Provider>
 			<Product d:type="cDeltaString">3dz_ICE4</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
@@ -284,7 +284,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">B2589FFD9F563268BA289C7562F7D9FF</MD5>
+	<MD5 d:type="cDeltaString">33958A10604B50B1C1753EA7CEE7732A</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
