@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="872031752">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1040241232">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -67,12 +67,12 @@
 		</Localisation-cUserLocalisedString>
 	</StartLocation>
 	<ScenarioClass d:type="cDeltaString">eFreeRoamScenarioClass</ScenarioClass>
-	<StartTime d:type="sFloat32" d:alt_encoding="000000000018E540" d:precision="string">43200</StartTime>
+	<StartTime d:type="sFloat32" d:alt_encoding="00000000005EEA40" d:precision="string">54000</StartTime>
 	<DurationMins d:type="sInt32">0</DurationMins>
-	<StartDD d:type="sInt32">1</StartDD>
-	<StartMM d:type="sInt32">7</StartMM>
+	<StartDD d:type="sInt32">3</StartDD>
+	<StartMM d:type="sInt32">10</StartMM>
 	<StartYYYY d:type="sInt32">2010</StartYYYY>
-	<Season d:type="cDeltaString">SEASON_SUMMER</Season>
+	<Season d:type="cDeltaString">SEASON_AUTUMN</Season>
 	<WeatherBlueprint>
 		<iBlueprintLibrary-cAbsoluteBlueprintID>
 			<BlueprintSetID>
@@ -81,7 +81,7 @@
 					<Product d:type="cDeltaString">RailSimulatorCore</Product>
 				</iBlueprintLibrary-cBlueprintSetID>
 			</BlueprintSetID>
-			<BlueprintID d:type="cDeltaString">Weather\RW_Clear.xml</BlueprintID>
+			<BlueprintID d:type="cDeltaString">Weather\SL_Clear.xml</BlueprintID>
 		</iBlueprintLibrary-cAbsoluteBlueprintID>
 	</WeatherBlueprint>
 	<WeatherExtensionBlueprint>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="1352593080">
+		<sDriverFrontEndDetails d:id="1348436136">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -126,7 +126,7 @@
 					<Polish d:type="cDeltaString">OEBB 1116 Railjet</Polish>
 					<Russian d:type="cDeltaString">OEBB 1116 Railjet</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">59c74fcc-c453-40b0-9a41-2ea9c0cb358b</Key>
+					<Key d:type="cDeltaString">77dc2234-7179-41bc-a916-5b8985686654</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -164,15 +164,19 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1157672280">
+		<iBlueprintLibrary-cBlueprintSetID d:id="827858392">
+			<Provider d:type="cDeltaString">CS_addon</Provider>
+			<Product d:type="cDeltaString">OJanis</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="827858400">
 			<Provider d:type="cDeltaString">RWAustria_2</Provider>
 			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="1396602784">
+		<cOwnedEntity d:id="814678360">
 			<Component>
-				<cEditorSceneryRender d:id="1195467056">
+				<cEditorSceneryRender d:id="1041866768">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -180,16 +184,16 @@
 					<Palette1Index d:type="sUInt8">125</Palette1Index>
 					<Palette2Index d:type="sUInt8">213</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="1396600504">
+				<cPosOri d:id="814678480">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="1396600528">
+						<cFarMatrix d:id="814678504">
 							<Height d:type="sFloat32" d:alt_encoding="0000000000387240" d:precision="string">291.5</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="1396600580">
+								<cFarVector2 d:id="814678556">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -223,7 +227,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="1388218344">
+				<cScriptComponent d:id="824789912">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -268,7 +272,7 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1157673096">
+		<iBlueprintLibrary-cBlueprintSetID d:id="827857808">
 			<Provider d:type="cDeltaString">RWAustria_2</Provider>
 			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
@@ -280,7 +284,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">5F90C863A78A130AC2170424F6006CF4</MD5>
+	<MD5 d:type="cDeltaString">4FD399721E4F37DD72B43CCE410093D7</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
