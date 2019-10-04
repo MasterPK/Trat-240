@@ -14,7 +14,7 @@ Návěstidla, rychlostníky, výhybky a přejezdy funkční. Objekty okolo jsou 
 ## Technické podrobnosti
 
 ID pro vložení do Train Simulator: 4774ce76-bf43-4c5e-9ee2-910f7d92b863.
-Trať je primárně určena pro TS2019 64-bit a novější, ale pravděpodobně bude fungovat i na jiných verzích.
+Trať je primárně určena pro TS2019 64-bit a novější, ale pravděpodobně bude fungovat i na jiných verzích. (4.10.2019 upgrade na TS2020)
 
 ### Instalace
 
