@@ -19,7 +19,7 @@ Trať je primárně určena pro TS2019 64-bit a novější, ale pravděpodobně 
 
 Aktuální použitelná verze a historie verzí ke stažení v [Releases](https://github.com/MasterPK/Trat-240/releases).
 
-Pro instalaci si nejprve stáhněte všechny vyžadované DLC. Poté si stáhněte zip soubory z GitHub se všemi soubory a ty extrahujte do Railworks/Content/Routes/4774ce76-bf43-4c5e-9ee2-910f7d92b863.
+Pro instalaci si nejprve stáhněte všechny vyžadované DLC a objekty. Poté si stáhněte zip soubor z GitHub se všemi soubory a ty extrahujte do Railworks/Content/Routes/4774ce76-bf43-4c5e-9ee2-910f7d92b863.
 
 ## Vyžadované DLC
 
