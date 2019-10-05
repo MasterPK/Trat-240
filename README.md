@@ -4,12 +4,11 @@ Jedná se o **FIKTIVNÍ** trať, která má připomínat Trať 240 v úseku Krah
 
 Jedná se o amatérský projekt (můj první pokus o mapu do TS metodou pokus-omyl), mapa není nijak detailně propracovaná, vytvářím ji pro zábavu ve svém volném čase a podle toho jak chci.
 
-V [Issues](https://github.com/MasterPK/Trat-240/issues "Issues") můžete hlásit **důležité** problémy typu špatně položená kolej, nefunkční výhybka, návěstidlo, přejezd, špatně umístěné ryhlostníky, magnety, objekty přímo překážející kolejím(většinou vegetace), atd. Věci typu, že je budova částečně ve vzduchu, nesedí správně terén, překrývyjící se objekty a další drobnosti, hlásit sice můžete, ale pravděpodobně je neopravím.
+V formuláři [ZDE](https://forms.gle/piLFpTtHU7tQD8Ei9) můžete hlásit **důležité** problémy typu špatně položená kolej, nefunkční výhybka, návěstidlo, přejezd, špatně umístěné ryhlostníky, magnety, objekty přímo překážející kolejím(většinou vegetace), atd. Věci typu, že je budova částečně ve vzduchu, nesedí správně terén, překrývyjící se objekty a další drobnosti, hlásit sice můžete, ale pravděpodobně je neopravím.
 
 ## Aktuální stav
 
-Aktuálně je částečně hotový úsek Krahulov-Zastávka.
-Návěstidla, rychlostníky, výhybky a přejezdy funkční. Objekty okolo jsou sporadicky.
+5.10.2019 byla vydána První beta verze. Více informací [ZDE](https://github.com/MasterPK/Trat-240/releases/tag/v0.1-beta).
 
 ## Technické podrobnosti
 
