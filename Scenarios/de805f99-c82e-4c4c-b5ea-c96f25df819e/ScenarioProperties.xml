@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="125518116">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="186439818">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="215674368">
+		<sDriverFrontEndDetails d:id="494720142">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Rj 660 Rožmberk</English>
@@ -126,7 +126,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">344f06d9-e8c7-4f62-9586-40fca7d6f87b</Key>
+					<Key d:type="cDeltaString">cb3e472d-5c63-4cda-9603-3a88c3d123e8</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -151,18 +151,18 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">c3b7a7b1-0234-4bfa-aeeb-52669adff534</Key>
+					<Key d:type="cDeltaString">3750e5f8-641e-4668-8d28-a583274367ec</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">CS_addon</LocoAuthor>
 			<FilePath d:type="cDeltaString">CS_addon\OJanis\MotoroveLokomotivy\CD754045</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="A10A30194DA42F40" d:precision="string">15.8209</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="D1191DB3009B4840" d:precision="string">49.211</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="A5EC2F194DA42F40" d:precision="string">15.8209</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="1E551BB3009B4840" d:precision="string">49.211</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000A0291A7E40" d:precision="string">481.635</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="215672056">
+		<sDriverFrontEndDetails d:id="494720210">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Os 4815</English>
@@ -193,7 +193,7 @@
 							<String d:type="cDeltaString">DB 系列 442 天赋 2</String>
 						</Localisation-cUserLocalisedString-cOtherStringLangPair>
 					</Other>
-					<Key d:type="cDeltaString">e6bedfa6-e849-4ff6-a97a-93fcd79a187b</Key>
+					<Key d:type="cDeltaString">feb6fe27-b856-4fbb-a487-327f06e58c36</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -231,23 +231,23 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51762642">
+		<iBlueprintLibrary-cBlueprintSetID d:id="51649522">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">OJanis</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51762644">
+		<iBlueprintLibrary-cBlueprintSetID d:id="51649524">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">NurembergRegensburg</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51762646">
+		<iBlueprintLibrary-cBlueprintSetID d:id="51649526">
 			<Provider d:type="cDeltaString">RWAustria_2</Provider>
 			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="52170348">
+		<cOwnedEntity d:id="52434030">
 			<Component>
-				<cEditorSceneryRender d:id="125533594">
+				<cEditorSceneryRender d:id="188110512">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -255,16 +255,16 @@
 					<Palette1Index d:type="sUInt8">17</Palette1Index>
 					<Palette2Index d:type="sUInt8">82</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="52020460">
+				<cPosOri d:id="188048116">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="52020466">
+						<cFarMatrix d:id="188048122">
 							<Height d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="52020473">
+								<cFarVector2 d:id="188048129">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -298,7 +298,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="125482856">
+				<cScriptComponent d:id="188052862">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -343,11 +343,11 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="254499848">
+		<iBlueprintLibrary-cBlueprintSetID d:id="127551772">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">NurembergRegensburg</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="254499850">
+		<iBlueprintLibrary-cBlueprintSetID d:id="127551774">
 			<Provider d:type="cDeltaString">RWAustria_2</Provider>
 			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
@@ -357,7 +357,7 @@
 	<DeferredEvent/>
 	<CheckedCondition/>
 	<CareerRules>
-		<cCareerRules d:id="202346488">
+		<cCareerRules d:id="127532434">
 			<Parent>
 				<cGUID>
 					<UUID>
@@ -405,7 +405,7 @@
 			<WhistleSignPoints d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</WhistleSignPoints>
 		</cCareerRules>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">6D532E645CA8565833AFA1EF5891E616</MD5>
+	<MD5 d:type="cDeltaString">BFF625BC60E0C1AD8AF7CB9E2E6682C7</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
