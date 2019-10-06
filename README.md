@@ -4,7 +4,7 @@ Jedná se o **FIKTIVNÍ** trať, která má připomínat Trať 240 v úseku Krah
 
 Jedná se o amatérský projekt (můj první pokus o mapu do TS metodou pokus-omyl), mapa není nijak detailně propracovaná, vytvářím ji pro zábavu ve svém volném čase a podle toho jak chci.
 
-V formuláři [ZDE](https://forms.gle/piLFpTtHU7tQD8Ei9) můžete hlásit **důležité** problémy typu špatně položená kolej, nefunkční výhybka, návěstidlo, přejezd, špatně umístěné ryhlostníky, magnety, objekty přímo překážející kolejím(většinou vegetace), atd. Věci typu, že je budova částečně ve vzduchu, nesedí správně terén, překrývyjící se objekty a další drobnosti, hlásit sice můžete, ale pravděpodobně je neopravím.
+V formuláři [ZDE](https://forms.gle/piLFpTtHU7tQD8Ei9) můžete hlásit **důležité** problémy typu špatně položená kolej, nefunkční výhybka, návěstidlo, přejezd, špatně umístěné ryhlostníky, magnety, objekty přímo překážející kolejím(většinou vegetace), atd. Věci typu, že je budova částečně ve vzduchu, nesedí správně terén, překrývající se objekty a další drobnosti, hlásit sice můžete, ale pravděpodobně je neopravím.
 
 ![alt text](https://raw.githubusercontent.com/MasterPK/Trat-240/master/screenshot.png)
 
