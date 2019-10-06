@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cRouteProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="52595930">
+<cRouteProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="126160390">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -119,9 +119,9 @@
 	<LockCounter d:type="sUInt32">1</LockCounter>
 	<Locked d:type="bool">0</Locked>
 	<MapProjection>
-		<cMapProjectionOwner d:id="125385844">
+		<cMapProjectionOwner d:id="126261662">
 			<MapProjection>
-				<cUTMMapProjection d:id="125589042">
+				<cUTMMapProjection d:id="126390932">
 					<Origin>
 						<sGeoPosition>
 							<Lat d:type="sFloat64" d:alt_encoding="DD240681959B4840" d:precision="string">49.2155</Lat>
@@ -141,125 +141,129 @@
 		</cMapProjectionOwner>
 	</MapProjection>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875634">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266404">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">CologneKoblenz</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875636">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266406">
 			<Provider d:type="cDeltaString">Kuju</Provider>
 			<Product d:type="cDeltaString">RailSimulator</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875638">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266408">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Svec</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875640">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266410">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Trunda</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875642">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266412">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">OJanis</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875644">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266414">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">DavidJavurek</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875646">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266416">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Majkl</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875648">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266418">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Glocky</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875650">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266420">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Hekl</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875652">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266422">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Kal000px</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875654">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266424">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Sasule</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875656">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266426">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Roman72</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875658">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266428">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Milva</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875660">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266430">
 			<Provider d:type="cDeltaString">CZ_objects</Provider>
 			<Product d:type="cDeltaString">CD_Addon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875662">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266432">
 			<Provider d:type="cDeltaString">Hekl</Provider>
 			<Product d:type="cDeltaString">Addon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875664">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266434">
 			<Provider d:type="cDeltaString">Hekl</Provider>
 			<Product d:type="cDeltaString">RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875666">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266436">
 			<Provider d:type="cDeltaString">AndiS</Provider>
 			<Product d:type="cDeltaString">FP Pro</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875668">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266438">
 			<Provider d:type="cDeltaString">AndiS</Provider>
 			<Product d:type="cDeltaString">FPKuju</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875670">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266440">
 			<Provider d:type="cDeltaString">AndiS</Provider>
 			<Product d:type="cDeltaString">FPSignals</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875672">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266442">
 			<Provider d:type="cDeltaString">Andi_M</Provider>
 			<Product d:type="cDeltaString">CD</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875674">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266444">
 			<Provider d:type="cDeltaString">Andi_M</Provider>
 			<Product d:type="cDeltaString">OEBB</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875676">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266446">
 			<Provider d:type="cDeltaString">Milva</Provider>
 			<Product d:type="cDeltaString">Stanice</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875678">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266448">
 			<Provider d:type="cDeltaString">Milva</Provider>
 			<Product d:type="cDeltaString">Trat026</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875680">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266450">
 			<Provider d:type="cDeltaString">Roman72</Provider>
 			<Product d:type="cDeltaString">CZ objekty</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875682">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266452">
 			<Provider d:type="cDeltaString">Barrett</Provider>
 			<Product d:type="cDeltaString">Deutsche Weichenradien</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875684">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266454">
 			<Provider d:type="cDeltaString">Schienenbus</Provider>
 			<Product d:type="cDeltaString">Scenery</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875686">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266456">
 			<Provider d:type="cDeltaString">Schienenbus</Provider>
 			<Product d:type="cDeltaString">Schilder</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875688">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266458">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">TerTex</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875690">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266460">
 			<Provider d:type="cDeltaString">ChrisTrains</Provider>
 			<Product d:type="cDeltaString">RailSimulator</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="226875692">
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266462">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">Academy</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="227266464">
+			<Provider d:type="cDeltaString">virtualRailroads</Provider>
+			<Product d:type="cDeltaString">vRCommon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
 	<AuthoredLanguage d:type="cDeltaString">en</AuthoredLanguage>
