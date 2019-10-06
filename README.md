@@ -6,6 +6,8 @@ Jedná se o amatérský projekt (můj první pokus o mapu do TS metodou pokus-om
 
 V formuláři [ZDE](https://forms.gle/piLFpTtHU7tQD8Ei9) můžete hlásit **důležité** problémy typu špatně položená kolej, nefunkční výhybka, návěstidlo, přejezd, špatně umístěné ryhlostníky, magnety, objekty přímo překážející kolejím(většinou vegetace), atd. Věci typu, že je budova částečně ve vzduchu, nesedí správně terén, překrývyjící se objekty a další drobnosti, hlásit sice můžete, ale pravděpodobně je neopravím.
 
+![alt text](https://raw.githubusercontent.com/MasterPK/Trat-240/master/screenshot.png)
+
 ## Aktuální stav
 
 5.10.2019 byla vydána První beta verze. Více informací [ZDE](https://github.com/MasterPK/Trat-240/releases/tag/v0.1-beta).
