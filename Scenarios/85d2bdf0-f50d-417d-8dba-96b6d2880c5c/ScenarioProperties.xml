@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="600434992">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="126637064">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,69 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="210976908">
+		<sDriverFrontEndDetails d:id="236236162">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Service2</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">546ad61c-b186-4e2a-9b3c-83510d306470</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Stadler Flirt3 A Rnet</English>
+					<French d:type="cDeltaString">Stadler Flirt3 A Rnet</French>
+					<Italian d:type="cDeltaString">Stadler Flirt3 A Rnet</Italian>
+					<German d:type="cDeltaString">Stadler Flirt3 A Rnet</German>
+					<Spanish d:type="cDeltaString">Stadler Flirt3 A Rnet</Spanish>
+					<Dutch d:type="cDeltaString">Stadler Flirt3 A Rnet</Dutch>
+					<Polish d:type="cDeltaString">Stadler Flirt3 A Rnet</Polish>
+					<Russian d:type="cDeltaString">Stadler Flirt3 A Rnet</Russian>
+					<Other/>
+					<Key d:type="cDeltaString">993196ba-4a60-4b84-bfd8-3aa7fab5a8fe</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">ChrisTrains</Provider>
+							<Product d:type="cDeltaString">RailSimulator</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\EMUs\Stadler Flirt 3\Wagons\Version PID\PID Flirt3 A.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Studenec N2</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">0654d4b0-67f5-4ab9-8b5f-5a2bdfedc18f</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
+			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\Stadler Flirt 3\Wagons\Version PID</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="5E68BF9D91113040" d:precision="string">16.0686</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="9C58B037799C4840" d:precision="string">49.2224</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000000022E7B40" d:precision="string">434.875</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="236238066">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -131,7 +193,7 @@
 							<String d:type="cDeltaString">DB 系列 442 天赋 2</String>
 						</Localisation-cUserLocalisedString-cOtherStringLangPair>
 					</Other>
-					<Key d:type="cDeltaString">9b31f665-ca28-47e3-bc1a-3e96dc8fe9d7</Key>
+					<Key d:type="cDeltaString">c1d1c6c1-0f75-464c-8f15-c0765a1cb7ec</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -156,7 +218,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">364e17d9-0b34-4f0f-982e-ac62e6b43fea</Key>
+					<Key d:type="cDeltaString">850349c8-3509-4466-bb9d-90032a8c0917</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -169,15 +231,19 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1008510678">
+		<iBlueprintLibrary-cBlueprintSetID d:id="237245438">
+			<Provider d:type="cDeltaString">ChrisTrains</Provider>
+			<Product d:type="cDeltaString">RailSimulator</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="237245440">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">NurembergRegensburg</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="274954244">
+		<cOwnedEntity d:id="52424984">
 			<Component>
-				<cEditorSceneryRender d:id="993344830">
+				<cEditorSceneryRender d:id="126637248">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -185,16 +251,16 @@
 					<Palette1Index d:type="sUInt8">0</Palette1Index>
 					<Palette2Index d:type="sUInt8">0</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="600829150">
+				<cPosOri d:id="126583064">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="600829156">
+						<cFarMatrix d:id="126583070">
 							<Height d:type="sFloat32" d:alt_encoding="0000000000307B40" d:precision="string">435</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="600829163">
+								<cFarVector2 d:id="126583077">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -204,7 +270,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="00000040CBD47B40" d:precision="string">445.3</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="000000C0CCD47B40" d:precision="string">445.3</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -218,7 +284,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="00000040ACB38E40" d:precision="string">982.459</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="00000000ACB38E40" d:precision="string">982.459</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -228,7 +294,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="214542060">
+				<cScriptComponent d:id="126574954">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -273,7 +339,7 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="238601054">
+		<iBlueprintLibrary-cBlueprintSetID d:id="52028286">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">NurembergRegensburg</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
@@ -285,7 +351,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">953325E873AAAA20296C5095E1A1692D</MD5>
+	<MD5 d:type="cDeltaString">96E95490BFFA63099EC98A35DD2C0265</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>

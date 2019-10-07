@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="73973604">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="126390904">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,131 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="235019984">
+		<sDriverFrontEndDetails d:id="225961990">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Service8</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">7e63ab44-c22d-47e5-adcb-f7f59910bf63</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">DB BR146</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">a75f1da0-9b39-4342-8326-335328c81495</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">DTG</Provider>
+							<Product d:type="cDeltaString">CologneKoblenz</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\DB146\Engine\146 Engine.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">5ea76a01-7d1b-418c-9e00-e89b927150a8</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
+			<FilePath d:type="cDeltaString">DTG\CologneKoblenz\RailVehicles\Electric\DB146\Engine</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="FD13CF75759B3040" d:precision="string">16.6073</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="FEAACB46E1964840" d:precision="string">49.1787</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="0000006050406940" d:precision="string">202.01</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="225961582">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Service7</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">cf94381b-542b-4242-b5f2-2cc07ac8a9bf</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">DB BR146</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">fa8dc8f7-4aab-4a63-800a-0d18ab2944c6</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">DTG</Provider>
+							<Product d:type="cDeltaString">CologneKoblenz</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\DB146\Engine\146 Engine.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">77942463-0c9a-4dca-9c6e-0d8ba75547cd</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
+			<FilePath d:type="cDeltaString">DTG\CologneKoblenz\RailVehicles\Electric\DB146\Engine</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="AEFD65A1719B3040" d:precision="string">16.6072</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="24DB2513E1964840" d:precision="string">49.1787</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="0000004050406940" d:precision="string">202.01</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="225960562">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service6</English>
@@ -126,7 +250,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">bf1103d6-254a-46a7-9361-8f948060afd5</Key>
+					<Key d:type="cDeltaString">09c28016-5db1-4dc1-b614-014d63ed98d5</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -157,12 +281,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
 			<FilePath d:type="cDeltaString">DTG\CologneKoblenz\RailVehicles\Electric\DB146\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="F2A81A74FE9B3040" d:precision="string">16.6094</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="971B6D1719984840" d:precision="string">49.1883</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="91411E74FE9B3040" d:precision="string">16.6094</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="2C156D1719984840" d:precision="string">49.1883</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="0000008032426940" d:precision="string">202.069</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="235020596">
+		<sDriverFrontEndDetails d:id="225961650">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service5</English>
@@ -188,7 +312,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">79d47dd2-ba56-4aa1-9fd0-f5eb0bb4cf67</Key>
+					<Key d:type="cDeltaString">aab83189-dba0-416b-8bd9-bdd8eedd8696</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -224,7 +348,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="0000008032426940" d:precision="string">202.069</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="235020528">
+		<sDriverFrontEndDetails d:id="225961922">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service4</English>
@@ -250,7 +374,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">c1492bd9-89f6-4671-acae-ceba486f1004</Key>
+					<Key d:type="cDeltaString">a9aa47af-4b54-4180-8a11-adc3c4e3eb4f</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -281,12 +405,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
 			<FilePath d:type="cDeltaString">DTG\CologneKoblenz\RailVehicles\Electric\DB146\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="22151C20F39B3040" d:precision="string">16.6092</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="10C111391A984840" d:precision="string">49.1883</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="DB4F1C20F39B3040" d:precision="string">16.6092</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="344A15391A984840" d:precision="string">49.1883</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="0000008032426940" d:precision="string">202.069</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="235018352">
+		<sDriverFrontEndDetails d:id="225960018">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service3</English>
@@ -312,7 +436,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">cf6170b1-f433-4eac-9e77-a8856e76763d</Key>
+					<Key d:type="cDeltaString">e3be6b28-c197-4fb8-9f4c-29be8b932d42</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -343,12 +467,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
 			<FilePath d:type="cDeltaString">DTG\CologneKoblenz\RailVehicles\Electric\DB146\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="9A21BB73EC9B3040" d:precision="string">16.6091</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="341E817B1C984840" d:precision="string">49.1884</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="525CBB73EC9B3040" d:precision="string">16.6091</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="57A7847B1C984840" d:precision="string">49.1884</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="0000008032426940" d:precision="string">202.069</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="235017740">
+		<sDriverFrontEndDetails d:id="225963758">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service2</English>
@@ -374,7 +498,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">63d82f14-1981-4b47-afce-ed9a7d815dde</Key>
+					<Key d:type="cDeltaString">ae4d6b83-a30b-40fa-ba2d-8611459c935c</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -410,7 +534,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="000000805B406940" d:precision="string">202.011</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="235021208">
+		<sDriverFrontEndDetails d:id="225962398">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -436,7 +560,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">67aaa953-28ff-4240-9686-9c884f6ddf4f</Key>
+					<Key d:type="cDeltaString">43df1615-55d9-43d0-b387-04f093d99063</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -461,7 +585,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">2e0d43cf-e38d-4fad-824a-2debd5071e51</Key>
+					<Key d:type="cDeltaString">b717516c-8732-47c3-a6d3-ffc8c9e6f4fd</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -474,15 +598,15 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="52057304">
+		<iBlueprintLibrary-cBlueprintSetID d:id="126348514">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">CologneKoblenz</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="52160566">
+		<cOwnedEntity d:id="52142880">
 			<Component>
-				<cEditorSceneryRender d:id="73928508">
+				<cEditorSceneryRender d:id="126391088">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -490,16 +614,16 @@
 					<Palette1Index d:type="sUInt8">102</Palette1Index>
 					<Palette2Index d:type="sUInt8">207</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="51978698">
+				<cPosOri d:id="126383050">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="51978704">
-							<Height d:type="sFloat32" d:alt_encoding="000000603B5F6A40" d:precision="string">210.976</Height>
+						<cFarMatrix d:id="126383056">
+							<Height d:type="sFloat32" d:alt_encoding="000000E012446940" d:precision="string">202.127</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="51978711">
+								<cFarVector2 d:id="126383063">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -509,7 +633,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="000000A045A64F40" d:precision="string">63.299</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="0000002087378940" d:precision="string">806.941</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -518,12 +642,12 @@
 										<cFarCoordinate>
 											<RouteCoordinate>
 												<cRouteCoordinate>
-													<Distance d:type="sInt32">-6</Distance>
+													<Distance d:type="sInt32">-4</Distance>
 												</cRouteCoordinate>
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="000000803D9A8F40" d:precision="string">1011.28</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="00000020233C7B40" d:precision="string">435.759</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -533,7 +657,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="51995230">
+				<cScriptComponent d:id="126369114">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -585,7 +709,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">987150E91E66C5433E4A931D2CC85121</MD5>
+	<MD5 d:type="cDeltaString">D1DF4BC38204F61F3CCCC5E2E3B0AD74</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
