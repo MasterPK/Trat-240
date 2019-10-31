@@ -10,7 +10,7 @@ V formuláři [ZDE](https://forms.gle/piLFpTtHU7tQD8Ei9) můžete hlásit **důl
 
 ## Aktuální stav
 
-5.10.2019 byla vydána První beta verze. Více informací [ZDE](https://github.com/MasterPK/Trat-240/releases/tag/v0.1-beta).
+31.10.2019 byla vydána Druhá beta verze. Z důvodu časové náročnosti je to na delší dobu poslední verze, která je skoro funkční. Více informací [ZDE](https://github.com/MasterPK/Trat-240/releases/tag/v0.2-beta).
 
 ## Technické podrobnosti
 
