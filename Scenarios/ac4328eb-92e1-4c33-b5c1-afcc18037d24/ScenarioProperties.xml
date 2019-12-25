@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1895791200">
+	<ID>
+		<cGUID>
+			<UUID>
+				<e d:type="sUInt64">5490893868650146027</e>
+				<e d:type="sUInt64">2629261162502406581</e>
+			</UUID>
+			<DevString d:type="cDeltaString">ac4328eb-92e1-4c33-b5c1-afcc18037d24</DevString>
+		</cGUID>
+	</ID>
+	<String/>
+	<DisplayName>
+		<Localisation-cUserLocalisedString>
+			<English d:type="cDeltaString">rj 667 Rožmberk</English>
+			<French d:type="cDeltaString"></French>
+			<Italian d:type="cDeltaString"></Italian>
+			<German d:type="cDeltaString"></German>
+			<Spanish d:type="cDeltaString"></Spanish>
+			<Dutch d:type="cDeltaString"></Dutch>
+			<Polish d:type="cDeltaString"></Polish>
+			<Russian d:type="cDeltaString"></Russian>
+			<Other/>
+			<Key d:type="cDeltaString">4bc95138-1097-4978-8fe4-5b1b7930e93a</Key>
+		</Localisation-cUserLocalisedString>
+	</DisplayName>
+	<Description>
+		<Localisation-cUserLocalisedString>
+			<English d:type="cDeltaString">&lt;supply description&gt;</English>
+			<French d:type="cDeltaString"></French>
+			<Italian d:type="cDeltaString"></Italian>
+			<German d:type="cDeltaString"></German>
+			<Spanish d:type="cDeltaString"></Spanish>
+			<Dutch d:type="cDeltaString"></Dutch>
+			<Polish d:type="cDeltaString"></Polish>
+			<Russian d:type="cDeltaString"></Russian>
+			<Other/>
+			<Key d:type="cDeltaString">a203b1bd-bbcc-4b2a-b39b-b9e5e1e40668</Key>
+		</Localisation-cUserLocalisedString>
+	</Description>
+	<Briefing>
+		<Localisation-cUserLocalisedString>
+			<English d:type="cDeltaString">&lt;supply briefing&gt;</English>
+			<French d:type="cDeltaString"></French>
+			<Italian d:type="cDeltaString"></Italian>
+			<German d:type="cDeltaString"></German>
+			<Spanish d:type="cDeltaString"></Spanish>
+			<Dutch d:type="cDeltaString"></Dutch>
+			<Polish d:type="cDeltaString"></Polish>
+			<Russian d:type="cDeltaString"></Russian>
+			<Other/>
+			<Key d:type="cDeltaString">11a5bd48-bb6b-4468-af62-8be08feb5502</Key>
+		</Localisation-cUserLocalisedString>
+	</Briefing>
+	<StartLocation>
+		<Localisation-cUserLocalisedString>
+			<English d:type="cDeltaString"></English>
+			<French d:type="cDeltaString"></French>
+			<Italian d:type="cDeltaString"></Italian>
+			<German d:type="cDeltaString"></German>
+			<Spanish d:type="cDeltaString"></Spanish>
+			<Dutch d:type="cDeltaString"></Dutch>
+			<Polish d:type="cDeltaString"></Polish>
+			<Russian d:type="cDeltaString"></Russian>
+			<Other/>
+			<Key d:type="cDeltaString">2171c95c-3277-42e4-9a25-4d1bab88d491</Key>
+		</Localisation-cUserLocalisedString>
+	</StartLocation>
+	<ScenarioClass d:type="cDeltaString">eCareerScenarioClass</ScenarioClass>
+	<StartTime d:type="sFloat32" d:alt_encoding="0000000000E2ED40" d:precision="string">61200</StartTime>
+	<DurationMins d:type="sInt32">0</DurationMins>
+	<StartDD d:type="sInt32">24</StartDD>
+	<StartMM d:type="sInt32">12</StartMM>
+	<StartYYYY d:type="sInt32">2019</StartYYYY>
+	<Season d:type="cDeltaString">SEASON_WINTER</Season>
+	<WeatherBlueprint>
+		<iBlueprintLibrary-cAbsoluteBlueprintID>
+			<BlueprintSetID>
+				<iBlueprintLibrary-cBlueprintSetID>
+					<Provider d:type="cDeltaString">Kuju</Provider>
+					<Product d:type="cDeltaString">RailSimulatorCore</Product>
+				</iBlueprintLibrary-cBlueprintSetID>
+			</BlueprintSetID>
+			<BlueprintID d:type="cDeltaString">Weather\RW_Clear.xml</BlueprintID>
+		</iBlueprintLibrary-cAbsoluteBlueprintID>
+	</WeatherBlueprint>
+	<WeatherExtensionBlueprint>
+		<iBlueprintLibrary-cAbsoluteBlueprintID>
+			<BlueprintSetID>
+				<iBlueprintLibrary-cBlueprintSetID>
+					<Provider d:type="cDeltaString"></Provider>
+					<Product d:type="cDeltaString"></Product>
+				</iBlueprintLibrary-cBlueprintSetID>
+			</BlueprintSetID>
+			<BlueprintID d:type="cDeltaString"></BlueprintID>
+		</iBlueprintLibrary-cAbsoluteBlueprintID>
+	</WeatherExtensionBlueprint>
+	<Rating d:type="sInt32">1</Rating>
+	<LocoClass d:type="cDeltaString">LOCO_NO_CLASS</LocoClass>
+	<HasRollingStart d:type="bool">0</HasRollingStart>
+	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
+	<FrontEndDriverList>
+		<sDriverFrontEndDetails d:id="1365761840">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Service1</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">428c9ed1-a7bf-4da7-ad07-ef3e61c31acc</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">OEBB Afmpz 8090</English>
+					<French d:type="cDeltaString">OEBB Afmpz 8090</French>
+					<Italian d:type="cDeltaString">OEBB Afmpz 8090</Italian>
+					<German d:type="cDeltaString">OEBB Afmpz 8090</German>
+					<Spanish d:type="cDeltaString">OEBB Afmpz 8090</Spanish>
+					<Dutch d:type="cDeltaString">OEBB Afmpz 8090</Dutch>
+					<Polish d:type="cDeltaString">OEBB Afmpz 8090</Polish>
+					<Russian d:type="cDeltaString">OEBB Afmpz 8090</Russian>
+					<Other/>
+					<Key d:type="cDeltaString">7655daad-2b89-4f95-a049-edec61157612</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_2</Provider>
+							<Product d:type="cDeltaString">Austria_RailVehicles</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Electric\OEBB_Railjet\OEBB_8090\OEBB_8090.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Krahulov 6</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">f110ca6c-3f24-4fe6-98bc-3f37ebbb9032</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">RWAustria_2</LocoAuthor>
+			<FilePath d:type="cDeltaString">RWAustria_2\Austria_RailVehicles\Electric\OEBB_Railjet\OEBB_8090</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="8A287254249C2F40" d:precision="string">15.805</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="0DBF49C07C9B4840" d:precision="string">49.2147</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000060E6257E40" d:precision="string">482.369</Height>
+			<PlayerDriver d:type="bool">1</PlayerDriver>
+		</sDriverFrontEndDetails>
+	</FrontEndDriverList>
+	<RequiredSet>
+		<iBlueprintLibrary-cBlueprintSetID d:id="1164723648">
+			<Provider d:type="cDeltaString">RWAustria_2</Provider>
+			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+	</RequiredSet>
+	<Gizmo>
+		<cOwnedEntity d:id="1891850752">
+			<Component>
+				<cEditorSceneryRender d:id="1277782000">
+					<DetailLevel d:type="sInt32">10</DetailLevel>
+					<Global d:type="bool">0</Global>
+					<Saved d:type="bool">1</Saved>
+					<Palette0Index d:type="sUInt8">250</Palette0Index>
+					<Palette1Index d:type="sUInt8">40</Palette1Index>
+					<Palette2Index d:type="sUInt8">202</Palette2Index>
+				</cEditorSceneryRender>
+				<cPosOri d:id="1429352960">
+					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
+					<RFarMatrix>
+						<cFarMatrix d:id="1429353008">
+							<Height d:type="sFloat32" d:alt_encoding="0000000000287E40" d:precision="string">482.5</Height>
+							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
+							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
+							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
+							<RFarPosition>
+								<cFarVector2 d:id="1429353064">
+									<X>
+										<cFarCoordinate>
+											<RouteCoordinate>
+												<cRouteCoordinate>
+													<Distance d:type="sInt32">-6</Distance>
+												</cRouteCoordinate>
+											</RouteCoordinate>
+											<TileCoordinate>
+												<cTileCoordinate>
+													<Distance d:type="sFloat32" d:alt_encoding="000000608EEE8940" d:precision="string">829.82</Distance>
+												</cTileCoordinate>
+											</TileCoordinate>
+										</cFarCoordinate>
+									</X>
+									<Z>
+										<cFarCoordinate>
+											<RouteCoordinate>
+												<cRouteCoordinate>
+													<Distance d:type="sInt32">-1</Distance>
+												</cRouteCoordinate>
+											</RouteCoordinate>
+											<TileCoordinate>
+												<cTileCoordinate>
+													<Distance d:type="sFloat32" d:alt_encoding="00000080FB648840" d:precision="string">780.623</Distance>
+												</cTileCoordinate>
+											</TileCoordinate>
+										</cFarCoordinate>
+									</Z>
+								</cFarVector2>
+							</RFarPosition>
+						</cFarMatrix>
+					</RFarMatrix>
+				</cPosOri>
+				<cScriptComponent d:id="1279420512">
+					<DebugDisplay d:type="bool">1</DebugDisplay>
+					<StateName d:type="cDeltaString"></StateName>
+				</cScriptComponent>
+			</Component>
+			<BlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">Kuju</Provider>
+							<Product d:type="cDeltaString">RailSimulatorCore</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Editor\Gizmo\Scenario Markers\Career Scenario Marker.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</BlueprintID>
+			<ReskinBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</ReskinBlueprintID>
+			<Name d:type="cDeltaString">Career Scenario Marker</Name>
+			<EntityID>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5261278312012940241</e>
+						<e d:type="sUInt64">15824921856877126304</e>
+					</UUID>
+					<DevString d:type="cDeltaString">d3ff83d1-d0bf-4903-a0e2-79b5956a9ddb</DevString>
+				</cGUID>
+			</EntityID>
+		</cOwnedEntity>
+	</Gizmo>
+	<SimulationTime d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</SimulationTime>
+	<AuthoredLanguage d:type="cDeltaString">en</AuthoredLanguage>
+	<Version d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</Version>
+	<Author d:type="cDeltaString"></Author>
+	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
+	<RBlueprintSetPreLoad>
+		<iBlueprintLibrary-cBlueprintSetID d:id="234586112">
+			<Provider d:type="cDeltaString">RWAustria</Provider>
+			<Product d:type="cDeltaString">Austria</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="234586128">
+			<Provider d:type="cDeltaString">RWAustria</Provider>
+			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="234586144">
+			<Provider d:type="cDeltaString">RWAustria_2</Provider>
+			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+	</RBlueprintSetPreLoad>
+	<NamedEntity/>
+	<Condition/>
+	<DeferredEvent/>
+	<CheckedCondition/>
+	<CareerRules>
+		<cCareerRules d:id="1501300224">
+			<Parent>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">5490893868650146027</e>
+						<e d:type="sUInt64">2629261162502406581</e>
+					</UUID>
+					<DevString d:type="cDeltaString">ac4328eb-92e1-4c33-b5c1-afcc18037d24</DevString>
+				</cGUID>
+			</Parent>
+			<StartScore d:type="sInt32">0</StartScore>
+			<Version d:type="sInt32">1</Version>
+			<CodeVersion d:type="sInt32">5</CodeVersion>
+			<DLC d:type="sInt32">0</DLC>
+			<StatsGroup d:type="sInt32">0</StatsGroup>
+			<SpeedCheckIntervalSec d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</SpeedCheckIntervalSec>
+			<PointsPerMPHPerInterval d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</PointsPerMPHPerInterval>
+			<SpeedMultiplierThresholdSec d:type="sFloat32" d:alt_encoding="0000000000001440" d:precision="string">5</SpeedMultiplierThresholdSec>
+			<SpeedMultiplier d:type="sFloat32" d:alt_encoding="0000000000000040" d:precision="string">2</SpeedMultiplier>
+			<ComfortCheckIntervalSec d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</ComfortCheckIntervalSec>
+			<PointsPerGPerInterval d:type="sFloat32" d:alt_encoding="0000000000005940" d:precision="string">100</PointsPerGPerInterval>
+			<ComfortForceLimitG d:type="sFloat32" d:alt_encoding="00000040E17AB43F" d:precision="string">0.08</ComfortForceLimitG>
+			<ComfortForceMaxScaleG d:type="sFloat32" d:alt_encoding="000000A09999B93F" d:precision="string">0.1</ComfortForceMaxScaleG>
+			<LateralComfortForceLimitG d:type="sFloat32" d:alt_encoding="000000A09999C93F" d:precision="string">0.2</LateralComfortForceLimitG>
+			<LateralComfortForceMaxScaleG d:type="sFloat32" d:alt_encoding="000000000000D03F" d:precision="string">0.25</LateralComfortForceMaxScaleG>
+			<LatePointsPerSecond d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</LatePointsPerSecond>
+			<LateMuliplierPerMinute d:type="sFloat32" d:alt_encoding="0000000000000040" d:precision="string">2</LateMuliplierPerMinute>
+			<EarlyPointsAddedPerSecond d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</EarlyPointsAddedPerSecond>
+			<EarlyMultiplierPerMinute d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</EarlyMultiplierPerMinute>
+			<MissedStopPoints d:type="sFloat32" d:alt_encoding="0000000000006940" d:precision="string">200</MissedStopPoints>
+			<LeaveEarlyPoints d:type="sFloat32" d:alt_encoding="0000000000006940" d:precision="string">200</LeaveEarlyPoints>
+			<ArrivalPoints d:type="sFloat32" d:alt_encoding="0000000000006940" d:precision="string">200</ArrivalPoints>
+			<WheelslipPointsPerSec d:type="sFloat32" d:alt_encoding="0000000000001440" d:precision="string">5</WheelslipPointsPerSec>
+			<PointsPerOpError d:type="sFloat32" d:alt_encoding="0000000000004940" d:precision="string">50</PointsPerOpError>
+			<FuelUsageThreshold d:type="sFloat32" d:alt_encoding="0000000000407F40" d:precision="string">500</FuelUsageThreshold>
+			<FuelPointsPerUnitUsed d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</FuelPointsPerUnitUsed>
+			<EmergencyBrakingPointsPerSec d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</EmergencyBrakingPointsPerSec>
+			<AccuracyBonus d:type="sFloat32" d:alt_encoding="0000000000006940" d:precision="string">200</AccuracyBonus>
+			<AccuracyPenalty d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</AccuracyPenalty>
+			<MaxAccuracyPenalty d:type="sFloat32" d:alt_encoding="0000000000407F40" d:precision="string">500</MaxAccuracyPenalty>
+			<CarriagesPenalty d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</CarriagesPenalty>
+			<MD5 d:type="cDeltaString"></MD5>
+			<GoldMedalThreshold d:type="sUInt32">900</GoldMedalThreshold>
+			<SilverMedalThreshold d:type="sUInt32">750</SilverMedalThreshold>
+			<BronzeMedalThreshold d:type="sUInt32">500</BronzeMedalThreshold>
+			<WhistleSignPoints d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</WhistleSignPoints>
+		</cCareerRules>
+	</CareerRules>
+	<MD5 d:type="cDeltaString">048256BF7B14FFD51D77A8341D43CEF5</MD5>
+	<MessageEvent/>
+	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
+	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
+	<LocksScenario/>
+	<StartDestString/>
+	<TemplateStartDestMapping/>
+	<IsTemplateGenerated d:type="bool">0</IsTemplateGenerated>
+	<TemplateScenarioGUID>
+		<cGUID>
+			<UUID>
+				<e d:type="sUInt64">0</e>
+				<e d:type="sUInt64">0</e>
+			</UUID>
+			<DevString d:type="cDeltaString">00000000-0000-0000-0000-000000000000</DevString>
+		</cGUID>
+	</TemplateScenarioGUID>
+	<WorkshopId d:type="sUInt64">0</WorkshopId>
+	<WorkshopBy d:type="sUInt64">0</WorkshopBy>
+	<WorkshopTags d:type="cDeltaString"></WorkshopTags>
+	<StartInCab d:type="bool">0</StartInCab>
+	<IsClonedDLC d:type="bool">0</IsClonedDLC>
+	<StartLongitude d:type="sFloat64" d:alt_encoding="0000000000000000" d:precision="string">0</StartLongitude>
+	<StartLatitude d:type="sFloat64" d:alt_encoding="0000000000000000" d:precision="string">0</StartLatitude>
+	<StartHeight d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</StartHeight>
+	<QuickDriveStartName d:type="cDeltaString"></QuickDriveStartName>
+	<QuickDriveEndName d:type="cDeltaString"></QuickDriveEndName>
+	<QuickDrivePlayerConsistName d:type="cDeltaString"></QuickDrivePlayerConsistName>
+</cScenarioProperties>
