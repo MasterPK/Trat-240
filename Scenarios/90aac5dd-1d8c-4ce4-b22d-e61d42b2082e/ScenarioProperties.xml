@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="-2080905944">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="836966560">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,69 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="1319196920">
+		<sDriverFrontEndDetails d:id="1231115920">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Service2</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">208a48ab-110c-4d6c-858e-abae1354d6a2</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Twindexx </English>
+					<French d:type="cDeltaString">Twindexx </French>
+					<Italian d:type="cDeltaString">Twindexx </Italian>
+					<German d:type="cDeltaString">Twindexx </German>
+					<Spanish d:type="cDeltaString">Twindexx </Spanish>
+					<Dutch d:type="cDeltaString">Twindexx </Dutch>
+					<Polish d:type="cDeltaString">Twindexx </Polish>
+					<Russian d:type="cDeltaString">Twindexx </Russian>
+					<Other/>
+					<Key d:type="cDeltaString">640fd5c4-963b-41b4-8fed-4f745f4fb5e9</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">Railtraction</Provider>
+							<Product d:type="cDeltaString">Twindexx</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Twindexx\engine\Twindexx A.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">f88f4383-ee56-4d03-b112-31310dcd8515</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">Railtraction</LocoAuthor>
+			<FilePath d:type="cDeltaString">Railtraction\Twindexx\Twindexx\engine</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="00000040BD9D2F40" d:precision="string">15.8081</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="00000060539B4840" d:precision="string">49.2135</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000000B3257E40" d:precision="string">482.356</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="1231112664">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -126,7 +188,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">89719b89-ba29-40ca-8324-44ba02ba1c2f</Key>
+					<Key d:type="cDeltaString">874b7b71-dff3-4a1a-941d-a1cb44e1a41b</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -164,15 +226,19 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1091044208">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1276046720">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">NurembergRegensburg</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="1276046728">
+			<Provider d:type="cDeltaString">Railtraction</Provider>
+			<Product d:type="cDeltaString">Twindexx</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="1307128744">
+		<cOwnedEntity d:id="836872072">
 			<Component>
-				<cEditorSceneryRender d:id="-2014132168">
+				<cEditorSceneryRender d:id="836646952">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -180,16 +246,16 @@
 					<Palette1Index d:type="sUInt8">0</Palette1Index>
 					<Palette2Index d:type="sUInt8">0</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="1307125744">
+				<cPosOri d:id="836873392">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="1307125768">
+						<cFarMatrix d:id="836873416">
 							<Height d:type="sFloat32" d:alt_encoding="0000000000287E40" d:precision="string">482.5</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="1307125820">
+								<cFarVector2 d:id="836873468">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -199,7 +265,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="0000008072848840" d:precision="string">784.556</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="000000C072848840" d:precision="string">784.556</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -213,7 +279,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="000000C0CD7E8940" d:precision="string">815.85</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="000000C0CC7E8940" d:precision="string">815.85</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -223,7 +289,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="1124852504">
+				<cScriptComponent d:id="667757856">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -268,9 +334,17 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="1315807576">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1137288248">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">NurembergRegensburg</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="1137288256">
+			<Provider d:type="cDeltaString">3DZUG</Provider>
+			<Product d:type="cDeltaString">3dz_ICE4</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="1137288264">
+			<Provider d:type="cDeltaString">Railtraction</Provider>
+			<Product d:type="cDeltaString">Twindexx</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
 	<NamedEntity/>
@@ -280,7 +354,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">3E047128DB547DAF91090CAC70C890BB</MD5>
+	<MD5 d:type="cDeltaString">41C6AC6667822677BCF2CB1453DA1E18</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
