@@ -100,10 +100,10 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="1673121152">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Service6</English>
+					<English d:type="cDeltaString">Service1</English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
 					<German d:type="cDeltaString"></German>
@@ -112,42 +112,37 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">7c40ad1d-52ca-4927-8a15-4296728dec50</Key>
+					<Key d:type="cDeltaString">e7c31159-8d94-4f9b-839f-9592e9f65f25</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
 			<LocoName>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">DB BR442 Talent 2</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString">DB BR442 Talent 2</German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other>
-						<Localisation-cUserLocalisedString-cOtherStringLangPair>
-							<Language d:type="cDeltaString">zh</Language>
-							<String d:type="cDeltaString">DB 系列 442 天赋 2</String>
-						</Localisation-cUserLocalisedString-cOtherStringLangPair>
-					</Other>
-					<Key d:type="cDeltaString">cb639350-f255-45d8-a798-e3589d7db0cf</Key>
+					<English d:type="cDeltaString">OEBB Afmpz 8090</English>
+					<French d:type="cDeltaString">OEBB Afmpz 8090</French>
+					<Italian d:type="cDeltaString">OEBB Afmpz 8090</Italian>
+					<German d:type="cDeltaString">OEBB Afmpz 8090</German>
+					<Spanish d:type="cDeltaString">OEBB Afmpz 8090</Spanish>
+					<Dutch d:type="cDeltaString">OEBB Afmpz 8090</Dutch>
+					<Polish d:type="cDeltaString">OEBB Afmpz 8090</Polish>
+					<Russian d:type="cDeltaString">OEBB Afmpz 8090</Russian>
+					<Other/>
+					<Key d:type="cDeltaString">89cb12a0-1c79-4f23-96df-ff374199b60c</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
 				<iBlueprintLibrary-cAbsoluteBlueprintID>
 					<BlueprintSetID>
 						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">DTG</Provider>
-							<Product d:type="cDeltaString">NurembergRegensburg</Product>
+							<Provider d:type="cDeltaString">RWAustria_2</Provider>
+							<Product d:type="cDeltaString">Austria_RailVehicles</Product>
 						</iBlueprintLibrary-cBlueprintSetID>
 					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\Talent2\Engine\442-7_ND.xml</BlueprintID>
+					<BlueprintID d:type="cDeltaString">Electric\OEBB_Railjet\OEBB_8090\OEBB_8090.xml</BlueprintID>
 				</iBlueprintLibrary-cAbsoluteBlueprintID>
 			</LocoBP>
 			<StartLocation>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
+					<English d:type="cDeltaString">Třebíč 2/2</English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
 					<German d:type="cDeltaString"></German>
@@ -156,18 +151,18 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">5b09f597-7e99-4f5b-9115-3ade33429034</Key>
+					<Key d:type="cDeltaString">bdf0aaba-2718-4398-92bf-39632c05a261</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
-			<FilePath d:type="cDeltaString">DTG\NurembergRegensburg\RailVehicles\Electric\Talent2\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="FACB1A15ADC52F40" d:precision="string">15.8861</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="7EE49F0A0A9B4840" d:precision="string">49.2112</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="000000C019617B40" d:precision="string">438.069</Height>
+			<LocoAuthor d:type="cDeltaString">RWAustria_2</LocoAuthor>
+			<FilePath d:type="cDeltaString">RWAustria_2\Austria_RailVehicles\Electric\OEBB_Railjet\OEBB_8090</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="24DD066684C62F40" d:precision="string">15.8877</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="2BDBA0AA0A9B4840" d:precision="string">49.2113</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000E084627B40" d:precision="string">438.157</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="1673124416">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service5</English>
@@ -198,7 +193,7 @@
 							<String d:type="cDeltaString">DB 系列 442 天赋 2</String>
 						</Localisation-cUserLocalisedString-cOtherStringLangPair>
 					</Other>
-					<Key d:type="cDeltaString">1ec0a5e7-9732-4be8-886c-06e428bf0a03</Key>
+					<Key d:type="cDeltaString">1bd2ecb5-bcde-4c01-9b64-186053d51382</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -223,7 +218,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">00fd4566-7228-4436-9726-02818030d266</Key>
+					<Key d:type="cDeltaString">c436d1ab-d578-4ceb-bfc6-c66362e909fd</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -234,7 +229,74 @@
 			<Height d:type="sFloat32" d:alt_encoding="000000A019617B40" d:precision="string">438.069</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="1673138016">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Service6</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">7c40ad1d-52ca-4927-8a15-4296728dec50</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">DB BR442 Talent 2</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString">DB BR442 Talent 2</German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other>
+						<Localisation-cUserLocalisedString-cOtherStringLangPair>
+							<Language d:type="cDeltaString">zh</Language>
+							<String d:type="cDeltaString">DB 系列 442 天赋 2</String>
+						</Localisation-cUserLocalisedString-cOtherStringLangPair>
+					</Other>
+					<Key d:type="cDeltaString">78e04431-d863-4daa-9e85-0eca4f56f7ae</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">DTG</Provider>
+							<Product d:type="cDeltaString">NurembergRegensburg</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\Talent2\Engine\442-7_ND.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">1bebd576-11f1-49d2-b5b1-3932e70d8e57</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
+			<FilePath d:type="cDeltaString">DTG\NurembergRegensburg\RailVehicles\Electric\Talent2\Engine</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="FACB1A15ADC52F40" d:precision="string">15.8861</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="7EE49F0A0A9B4840" d:precision="string">49.2112</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000C019617B40" d:precision="string">438.069</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="1673128768">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service4</English>
@@ -260,7 +322,7 @@
 					<Polish d:type="cDeltaString">BR407 End wagon 2.Class (407.5 EW08)</Polish>
 					<Russian d:type="cDeltaString">BR407 End wagon 2.Class (407.5 EW08)</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">25284d0d-6e06-4328-bb59-5599917644f3</Key>
+					<Key d:type="cDeltaString">3e3829f7-2c41-4eb7-8f02-ede48967cc05</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -296,74 +358,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="0000006029637B40" d:precision="string">438.198</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails>
-			<ServiceName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Service1</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">46e1c36a-0d95-43bd-a672-59c217295fbc</Key>
-				</Localisation-cUserLocalisedString>
-			</ServiceName>
-			<LocoName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">BR 407 1.Kl Endwagon</English>
-					<French d:type="cDeltaString">Wagon de queue BR 407 1.Kl</French>
-					<Italian d:type="cDeltaString">BR 407 1.Kl Vagone di coda</Italian>
-					<German d:type="cDeltaString">BR 407 1.Kl Endwagen</German>
-					<Spanish d:type="cDeltaString">Vagón final BR 407 1.Kl</Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString">BR 407 1.Kl - Ostatni wagon</Polish>
-					<Russian d:type="cDeltaString">BR 407 1.Kl Хвостовой вагон</Russian>
-					<Other>
-						<Localisation-cUserLocalisedString-cOtherStringLangPair>
-							<Language d:type="cDeltaString">zh</Language>
-							<String d:type="cDeltaString">BR 407 1.Kl 终端车厢</String>
-						</Localisation-cUserLocalisedString-cOtherStringLangPair>
-					</Other>
-					<Key d:type="cDeltaString">6bf72977-832e-4f99-a0e1-4c05e49d0521</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">DTG</Provider>
-							<Product d:type="cDeltaString">BR407Pack01</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\BR407\DB\Blueprints\407_0_EW_1.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Třebíč 2/2</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">bdf0aaba-2718-4398-92bf-39632c05a261</Key>
-				</Localisation-cUserLocalisedString>
-			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
-			<FilePath d:type="cDeltaString">DTG\BR407Pack01\RailVehicles\Electric\BR407\DB\Blueprints</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="8C048F0C82C62F40" d:precision="string">15.8877</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="A88B4EB00A9B4840" d:precision="string">49.2113</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="0000002086627B40" d:precision="string">438.158</Height>
-			<PlayerDriver d:type="bool">0</PlayerDriver>
-		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="1673131488">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service3</English>
@@ -389,7 +384,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">16bf8592-451a-4b3e-b388-eb3378159b94</Key>
+					<Key d:type="cDeltaString">e41937e5-b7f1-46a0-87a3-d4cc612c50db</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -425,7 +420,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="00000000022E7B40" d:precision="string">434.875</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="1673132032">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service2</English>
@@ -451,7 +446,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">6432d46c-0a81-4d22-be9f-b3852aac526b</Key>
+					<Key d:type="cDeltaString">42e9eb47-eb0f-4f7f-a444-cbc24a36644d</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -489,29 +484,33 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="405956048">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1523588464">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Kal000px</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="405956064">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1523588480">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Majkl</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="405956080">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1523588496">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR407Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="405956096">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1523588512">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">NurembergRegensburg</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="405956112">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1523588528">
 			<Provider d:type="cDeltaString">Hekl</Provider>
 			<Product d:type="cDeltaString">RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="405956128">
+		<iBlueprintLibrary-cBlueprintSetID d:id="1523588544">
 			<Provider d:type="cDeltaString">Kuju</Provider>
 			<Product d:type="cDeltaString">RailSimulator</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="1523588560">
+			<Provider d:type="cDeltaString">RWAustria_2</Provider>
+			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
@@ -938,7 +937,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">ACDB9ADBA1A4209634DFAE35DF78FF22</MD5>
+	<MD5 d:type="cDeltaString">917DB0A2E5D3832D352C864C87917E0A</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
