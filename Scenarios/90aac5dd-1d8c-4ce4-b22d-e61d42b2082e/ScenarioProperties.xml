@@ -100,7 +100,131 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="1410670288">
+		<sDriverFrontEndDetails d:id="1410681168">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Service3</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">f5e88219-3d2c-4067-9597-75190dc98218</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">vR BR101 ProLine VRot</English>
+					<French d:type="cDeltaString">vR BR101 ProLine VRot</French>
+					<Italian d:type="cDeltaString">vR BR101 ProLine VRot</Italian>
+					<German d:type="cDeltaString">vR BR101 ProLine VRot</German>
+					<Spanish d:type="cDeltaString">vR BR101 ProLine VRot</Spanish>
+					<Dutch d:type="cDeltaString">vR BR101 ProLine VRot</Dutch>
+					<Polish d:type="cDeltaString">vR BR101 ProLine VRot</Polish>
+					<Russian d:type="cDeltaString">vR BR101 ProLine VRot</Russian>
+					<Other/>
+					<Key d:type="cDeltaString">bc4a322f-0a8d-4452-b9a8-b232ae6481de</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">vR_Steam_ProLine</Provider>
+							<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Elloks\BR101\BR101-VRot.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">9dc1fbd1-7df3-4329-8bdb-5000bcc3597e</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">vR_Steam_ProLine</LocoAuthor>
+			<FilePath d:type="cDeltaString">vR_Steam_ProLine\vR_BR101_VRot_EL\Elloks\BR101</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="06F90F81009D2F40" d:precision="string">15.8066</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="B6E3A7B0649B4840" d:precision="string">49.214</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000802F277E40" d:precision="string">482.449</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="1410677360">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Service1</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">838487f2-da5a-4ff5-ab1d-6a8f32b86b26</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">vR BR101 Expert-Line VRot</English>
+					<French d:type="cDeltaString">vR BR101 Expert-Line VRot</French>
+					<Italian d:type="cDeltaString">vR BR101 Expert-Line VRot</Italian>
+					<German d:type="cDeltaString">vR BR101 Expert-Line VRot</German>
+					<Spanish d:type="cDeltaString">vR BR101 Expert-Line VRot</Spanish>
+					<Dutch d:type="cDeltaString">vR BR101 Expert-Line VRot</Dutch>
+					<Polish d:type="cDeltaString">vR BR101 Expert-Line VRot</Polish>
+					<Russian d:type="cDeltaString">vR BR101 Expert-Line VRot</Russian>
+					<Other/>
+					<Key d:type="cDeltaString">1caf983e-15ee-4514-af58-4c9d09a87394</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">virtualRailroads</Provider>
+							<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Elloks\BR101\BR101-VRot.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">9ff796c7-a187-49f4-b8c1-0469c595ab32</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">virtualRailroads</LocoAuthor>
+			<FilePath d:type="cDeltaString">virtualRailroads\vR_BR101_VRot_EL\Elloks\BR101</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="22DF31D606A22F40" d:precision="string">15.8165</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="B3D38DBC339B4840" d:precision="string">49.2125</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000E0454D7E40" d:precision="string">484.83</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="1410673008">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service4</English>
@@ -126,7 +250,7 @@
 					<Polish d:type="cDeltaString">vR BR101 131-1 Expert-Line Metropolitan</Polish>
 					<Russian d:type="cDeltaString">vR BR101 131-1 Expert-Line Metropolitan</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">fd5da220-3b52-4e73-95d0-d8fc7b0b70b2</Key>
+					<Key d:type="cDeltaString">6fb812f9-af5e-432e-8e5f-a6c8ba7d3bd6</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -151,7 +275,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">2f1f2244-2c07-4298-a4ff-dd93ae94ab9c</Key>
+					<Key d:type="cDeltaString">58a7645e-a17a-44ee-bba6-739b413f511e</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -162,7 +286,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="000000400BD77D40" d:precision="string">477.44</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="1410670832">
+		<sDriverFrontEndDetails d:id="1410676272">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service2</English>
@@ -188,7 +312,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">3f10c85c-0caf-4068-8427-e79f9c364209</Key>
+					<Key d:type="cDeltaString">4f584491-5ec7-4668-a579-fa9e95111634</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -213,7 +337,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">a1b65339-fe28-4bf5-a255-e04d54024f54</Key>
+					<Key d:type="cDeltaString">fcf34248-ac53-460a-b252-ecc3a8e2bae7</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -237,6 +361,14 @@
 		<iBlueprintLibrary-cBlueprintSetID d:id="390585712">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_BR101_MET_EL</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="390585728">
+			<Provider d:type="cDeltaString">virtualRailroads</Provider>
+			<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="390585744">
+			<Provider d:type="cDeltaString">vR_Steam_ProLine</Provider>
+			<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
@@ -442,7 +574,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">29FB4D1B073C2925410B85A274F3E951</MD5>
+	<MD5 d:type="cDeltaString">2B2FE01069CBCB180C9C530AA942DFBB</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
