@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="126205326">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="78759276">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="204557382">
+		<sDriverFrontEndDetails d:id="205569704">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service3</English>
@@ -112,37 +112,37 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">4b2c03ba-9a08-4f3b-9ac8-52b6a491a7fe</Key>
+					<Key d:type="cDeltaString">3f3fe682-dcaf-489d-8825-f00b6af26464</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
 			<LocoName>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">DB BR442 Talent 2</English>
+					<English d:type="cDeltaString">BR245</English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString">DB BR442 Talent 2</German>
+					<German d:type="cDeltaString">BR245</German>
 					<Spanish d:type="cDeltaString"></Spanish>
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">8e7407a9-9bba-418a-9895-0086b3040ccf</Key>
+					<Key d:type="cDeltaString">6b64cbe9-5f22-413d-9d0d-c37b18b7792c</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
 				<iBlueprintLibrary-cAbsoluteBlueprintID>
 					<BlueprintSetID>
 						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">DTG</Provider>
-							<Product d:type="cDeltaString">BR442Pack01</Product>
+							<Provider d:type="cDeltaString">RSSLO</Provider>
+							<Product d:type="cDeltaString">BR245</Product>
 						</iBlueprintLibrary-cBlueprintSetID>
 					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\Talent2\Engine\442-7_nd.xml</BlueprintID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Engine\BR245.xml</BlueprintID>
 				</iBlueprintLibrary-cAbsoluteBlueprintID>
 			</LocoBP>
 			<StartLocation>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
+					<English d:type="cDeltaString">Okříšky 2/3</English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
 					<German d:type="cDeltaString"></German>
@@ -151,18 +151,18 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">72ed9913-aa8a-4a49-880b-0cf6b71cf063</Key>
+					<Key d:type="cDeltaString">66fa4450-750a-45b4-889d-948e43c91a3f</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
-			<FilePath d:type="cDeltaString">DTG\BR442Pack01\RailVehicles\Electric\Talent2\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="5D0C2E2D86892F40" d:precision="string">15.7686</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="53AA92FE409E4840" d:precision="string">49.2364</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000060E6257E40" d:precision="string">482.369</Height>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
+			<LocoAuthor d:type="cDeltaString">RSSLO</LocoAuthor>
+			<FilePath d:type="cDeltaString">RSSLO\BR245\RailVehicles\Engine</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="00AD6D452C892F40" d:precision="string">15.7679</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="D4F184CDBB9F4840" d:precision="string">49.2479</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000C0E7F57D40" d:precision="string">479.369</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="204558402">
+		<sDriverFrontEndDetails d:id="205572696">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service2</English>
@@ -174,26 +174,21 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">ffb3cd46-250c-4e95-a638-30e8b219cd55</Key>
+					<Key d:type="cDeltaString">3e495208-9999-48b4-bdc9-9a39565cf8ec</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
 			<LocoName>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">DB BR442 Talent 2</English>
+					<English d:type="cDeltaString">ICE-TD High Speed Train</English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString">DB BR442 Talent 2</German>
+					<German d:type="cDeltaString">ICE-TD Hochgeschwindigkeitszug</German>
 					<Spanish d:type="cDeltaString"></Spanish>
 					<Dutch d:type="cDeltaString"></Dutch>
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
-					<Other>
-						<Localisation-cUserLocalisedString-cOtherStringLangPair>
-							<Language d:type="cDeltaString">zh</Language>
-							<String d:type="cDeltaString">DB 系列 442 天赋 2</String>
-						</Localisation-cUserLocalisedString-cOtherStringLangPair>
-					</Other>
-					<Key d:type="cDeltaString">a523f715-f0e5-495c-a91d-9a7991bd796e</Key>
+					<Other/>
+					<Key d:type="cDeltaString">RS_TXT_ICETD_High_Speed_Train</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -201,15 +196,15 @@
 					<BlueprintSetID>
 						<iBlueprintLibrary-cBlueprintSetID>
 							<Provider d:type="cDeltaString">DTG</Provider>
-							<Product d:type="cDeltaString">NurembergRegensburg</Product>
+							<Product d:type="cDeltaString">ICETDPack01</Product>
 						</iBlueprintLibrary-cBlueprintSetID>
 					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\Talent2\Engine\442-7_ND.xml</BlueprintID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\ICETD\Default\ICETD_CabCar_605-0.xml</BlueprintID>
 				</iBlueprintLibrary-cAbsoluteBlueprintID>
 			</LocoBP>
 			<StartLocation>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
+					<English d:type="cDeltaString">Okříšky 1/1</English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
 					<German d:type="cDeltaString"></German>
@@ -218,266 +213,18 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">703cdfa5-b299-445d-9c28-b3e0f6d87b00</Key>
-				</Localisation-cUserLocalisedString>
-			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
-			<FilePath d:type="cDeltaString">DTG\NurembergRegensburg\RailVehicles\Electric\Talent2\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="70D5A6738C892F40" d:precision="string">15.7686</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="EC864692419E4840" d:precision="string">49.2364</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000060E6257E40" d:precision="string">482.369</Height>
-			<PlayerDriver d:type="bool">0</PlayerDriver>
-		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="204555614">
-			<ServiceName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Service9</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">de22650b-6588-4b05-b5e4-730ed8e4464b</Key>
-				</Localisation-cUserLocalisedString>
-			</ServiceName>
-			<LocoName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">BR928_04</English>
-					<French d:type="cDeltaString">BR928_04</French>
-					<Italian d:type="cDeltaString">BR928_04</Italian>
-					<German d:type="cDeltaString">BR928_04</German>
-					<Spanish d:type="cDeltaString">BR928_04</Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">df167229-0842-4bf3-998c-5b74eae5cc30</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">Railtraction</Provider>
-							<Product d:type="cDeltaString">BR628</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">BR628_4\Engine\Br928.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Okříšky 7</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">eb778dc6-dde4-4358-aa31-a19f6b9e4f5e</Key>
-				</Localisation-cUserLocalisedString>
-			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
-			<LocoAuthor d:type="cDeltaString">Railtraction</LocoAuthor>
-			<FilePath d:type="cDeltaString">Railtraction\BR628\BR628_4\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="7AE0333AF9882F40" d:precision="string">15.7675</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="EF4FBBE4A99F4840" d:precision="string">49.2474</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000060E6F57D40" d:precision="string">479.369</Height>
-			<PlayerDriver d:type="bool">0</PlayerDriver>
-		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="204556770">
-			<ServiceName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Service8</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">a4ef7c41-19f0-41c2-bf07-510262aeb65e</Key>
-				</Localisation-cUserLocalisedString>
-			</ServiceName>
-			<LocoName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">vR BR232 orient red</English>
-					<French d:type="cDeltaString">vR BR232 orient red</French>
-					<Italian d:type="cDeltaString">vR BR232 orient red</Italian>
-					<German d:type="cDeltaString">vR BR232 Orient Rot</German>
-					<Spanish d:type="cDeltaString">vR BR232 orient red</Spanish>
-					<Dutch d:type="cDeltaString">vR BR232 orient red</Dutch>
-					<Polish d:type="cDeltaString">vR BR232 orient red</Polish>
-					<Russian d:type="cDeltaString">vR BR232 orient red</Russian>
-					<Other/>
-					<Key d:type="cDeltaString">45698981-8ad9-44aa-b434-d3dfbc1a5644</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">virtualRailroads</Provider>
-							<Product d:type="cDeltaString">vR_BR232</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">DieselLoks\BR232\BR232_ORot.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Okříšky 6</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">d0e04fb9-36f4-4f79-9d38-9dac4f7ec2d0</Key>
-				</Localisation-cUserLocalisedString>
-			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
-			<LocoAuthor d:type="cDeltaString">virtualRailroads</LocoAuthor>
-			<FilePath d:type="cDeltaString">virtualRailroads\vR_BR232\DieselLoks\BR232</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="31A6E581CD882F40" d:precision="string">15.7672</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="C6B9D9A4AA9F4840" d:precision="string">49.2474</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000060E6F57D40" d:precision="string">479.369</Height>
-			<PlayerDriver d:type="bool">0</PlayerDriver>
-		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="204556498">
-			<ServiceName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Service7</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">be687110-1740-4620-9aa1-5df38f9acedc</Key>
-				</Localisation-cUserLocalisedString>
-			</ServiceName>
-			<LocoName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">vR BR132 V3</English>
-					<French d:type="cDeltaString">vR BR132 V3</French>
-					<Italian d:type="cDeltaString">vR BR132 V3</Italian>
-					<German d:type="cDeltaString">vR BR132 V3</German>
-					<Spanish d:type="cDeltaString">vR BR132 V3</Spanish>
-					<Dutch d:type="cDeltaString">vR BR132 V3</Dutch>
-					<Polish d:type="cDeltaString">vR BR132 V3</Polish>
-					<Russian d:type="cDeltaString">vR BR132 V3</Russian>
-					<Other/>
-					<Key d:type="cDeltaString">64ebaec6-96ff-463a-9391-3d1c268e4b7a</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">virtualRailroads</Provider>
-							<Product d:type="cDeltaString">vR_BR132</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">DieselLoks\BR132\BR132_V3.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Okříšky 5</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">3032d039-040c-4892-9f8d-408dae203a53</Key>
-				</Localisation-cUserLocalisedString>
-			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
-			<LocoAuthor d:type="cDeltaString">virtualRailroads</LocoAuthor>
-			<FilePath d:type="cDeltaString">virtualRailroads\vR_BR132\DieselLoks\BR132</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="CECA89A8D1882F40" d:precision="string">15.7672</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="4744DE31AC9F4840" d:precision="string">49.2474</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000060E6F57D40" d:precision="string">479.369</Height>
-			<PlayerDriver d:type="bool">0</PlayerDriver>
-		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="204557450">
-			<ServiceName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Service6</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">24f6a35d-8ebe-47d5-a1a3-2aff83b1eee9</Key>
-				</Localisation-cUserLocalisedString>
-			</ServiceName>
-			<LocoName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">DB BR361</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">RS_TXT_BR361_DB</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">DTG</Provider>
-							<Product d:type="cDeltaString">BR361Pack01</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\Diesel\BR361\Default\Engine\BR361_Engine.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Okříšky - Odstavné</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">4f26a75c-3577-498b-bef6-933ee5b75ca3</Key>
+					<Key d:type="cDeltaString">7425595c-2f33-43d9-ab42-7bd0fe894b79</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
-			<FilePath d:type="cDeltaString">DTG\BR361Pack01\RailVehicles\Diesel\BR361\Default\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="0DCBE1861C882F40" d:precision="string">15.7658</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="5CFFBA55B19F4840" d:precision="string">49.2476</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000060E6F57D40" d:precision="string">479.369</Height>
+			<FilePath d:type="cDeltaString">DTG\ICETDPack01\RailVehicles\Electric\ICETD\Default</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="ED31E20430892F40" d:precision="string">15.7679</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="322C6E5EB89F4840" d:precision="string">49.2478</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000C0E7F57D40" d:precision="string">479.369</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="204556022">
+		<sDriverFrontEndDetails d:id="205570452">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -503,7 +250,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">906f72a3-0a0b-43dc-81b0-577a0ce813c4</Key>
+					<Key d:type="cDeltaString">8e1693ab-14ed-46aa-a7aa-7cea727e40eb</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -541,43 +288,31 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="212799584">
+		<iBlueprintLibrary-cBlueprintSetID d:id="54557610">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">DavidJavurek</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="212799586">
+		<iBlueprintLibrary-cBlueprintSetID d:id="54557612">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">OJanis</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="212799588">
+		<iBlueprintLibrary-cBlueprintSetID d:id="54557614">
 			<Provider d:type="cDeltaString">DTG</Provider>
-			<Product d:type="cDeltaString">BR361Pack01</Product>
+			<Product d:type="cDeltaString">ICETDPack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="212799590">
-			<Provider d:type="cDeltaString">DTG</Provider>
-			<Product d:type="cDeltaString">BR442Pack01</Product>
-		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="212799592">
-			<Provider d:type="cDeltaString">DTG</Provider>
-			<Product d:type="cDeltaString">NurembergRegensburg</Product>
-		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="212799594">
+		<iBlueprintLibrary-cBlueprintSetID d:id="54557616">
 			<Provider d:type="cDeltaString">Railtraction</Provider>
-			<Product d:type="cDeltaString">BR628</Product>
+			<Product d:type="cDeltaString">Twindexx</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="212799596">
-			<Provider d:type="cDeltaString">virtualRailroads</Provider>
-			<Product d:type="cDeltaString">vR_BR132</Product>
-		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="212799598">
-			<Provider d:type="cDeltaString">virtualRailroads</Provider>
-			<Product d:type="cDeltaString">vR_BR232</Product>
+		<iBlueprintLibrary-cBlueprintSetID d:id="54557618">
+			<Provider d:type="cDeltaString">RSSLO</Provider>
+			<Product d:type="cDeltaString">BR245</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="125715326">
+		<cOwnedEntity d:id="129574402">
 			<Component>
-				<cEditorSceneryRender d:id="126215268">
+				<cEditorSceneryRender d:id="78760946">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -585,16 +320,16 @@
 					<Palette1Index d:type="sUInt8">0</Palette1Index>
 					<Palette2Index d:type="sUInt8">0</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="126214352">
+				<cPosOri d:id="54491746">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="126214358">
+						<cFarMatrix d:id="54491752">
 							<Height d:type="sFloat32" d:alt_encoding="000000E0A5F77D40" d:precision="string">479.478</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="126214365">
+								<cFarVector2 d:id="54491759">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -628,7 +363,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="125479232">
+				<cScriptComponent d:id="54491432">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -673,215 +408,215 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778608">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750946">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_BR101_VRot_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778610">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750948">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_BR101_ICE_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778612">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750950">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_Apmbzf_ICE</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778614">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750952">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_Apmbzf_MET</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778616">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750954">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_BR101_MET_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778618">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750956">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_BR185_2_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778620">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750958">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_Bpmbdzf_101</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778622">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750960">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_ICWg_IC</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778624">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750962">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_BR189_VRot_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778626">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750964">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vRCommon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778628">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750966">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">Uninstall</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778630">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750968">
 			<Provider d:type="cDeltaString">RSSLO</Provider>
 			<Product d:type="cDeltaString">BR285</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778632">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750970">
 			<Provider d:type="cDeltaString">RSSLO</Provider>
 			<Product d:type="cDeltaString">BR193</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778634">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750972">
 			<Provider d:type="cDeltaString">RSSLO</Provider>
 			<Product d:type="cDeltaString">OBB1016</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778636">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750974">
 			<Provider d:type="cDeltaString">RSSLO</Provider>
 			<Product d:type="cDeltaString">Wagons</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778638">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750976">
 			<Provider d:type="cDeltaString">RWAustria</Provider>
 			<Product d:type="cDeltaString">Austria</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778640">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750978">
 			<Provider d:type="cDeltaString">RWAustria</Provider>
 			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778642">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750980">
 			<Provider d:type="cDeltaString">RWAustria_2</Provider>
 			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778644">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750982">
 			<Provider d:type="cDeltaString">3DZUG</Provider>
 			<Product d:type="cDeltaString">3dz_ICE4</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778646">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750984">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR407Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778648">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750986">
 			<Provider d:type="cDeltaString">Andi_M</Provider>
 			<Product d:type="cDeltaString">DB</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778650">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750988">
 			<Provider d:type="cDeltaString">Andi_M</Provider>
 			<Product d:type="cDeltaString">OEBB</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778652">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750990">
 			<Provider d:type="cDeltaString">Adamdani1</Provider>
 			<Product d:type="cDeltaString">OEBB_WRmz73</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778654">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750992">
 			<Provider d:type="cDeltaString">CZ_objects</Provider>
 			<Product d:type="cDeltaString">CD_Addon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778656">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750994">
 			<Provider d:type="cDeltaString">DR</Provider>
 			<Product d:type="cDeltaString">Dbmu</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778658">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750996">
 			<Provider d:type="cDeltaString">Dem</Provider>
 			<Product d:type="cDeltaString">Osobni vozy</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778660">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78750998">
 			<Provider d:type="cDeltaString">Hekl</Provider>
 			<Product d:type="cDeltaString">Addon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778662">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751000">
 			<Provider d:type="cDeltaString">Hekl</Provider>
 			<Product d:type="cDeltaString">RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778664">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751002">
 			<Provider d:type="cDeltaString">Kank</Provider>
 			<Product d:type="cDeltaString">Nakladni vozy</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778666">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751004">
 			<Provider d:type="cDeltaString">Roman72</Provider>
 			<Product d:type="cDeltaString">CZ objekty</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778668">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751006">
 			<Provider d:type="cDeltaString">Sasule</Provider>
 			<Product d:type="cDeltaString">CS_Addon</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778670">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751008">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR218Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778672">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751010">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR261Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778674">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751012">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR361Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778676">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751014">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR440Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778678">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751016">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR442Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778680">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751018">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR648Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778682">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751020">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">ICETDPack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778684">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751022">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">NurembergRegensburg</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778686">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751024">
 			<Provider d:type="cDeltaString">RSC</Provider>
 			<Product d:type="cDeltaString">ICETPack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778688">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751026">
 			<Provider d:type="cDeltaString">RSC</Provider>
 			<Product d:type="cDeltaString">BR232Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778690">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751028">
 			<Provider d:type="cDeltaString">RSSLO</Provider>
 			<Product d:type="cDeltaString">BR245</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778692">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751030">
 			<Provider d:type="cDeltaString">RSSLO</Provider>
 			<Product d:type="cDeltaString">VT642</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778694">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751032">
 			<Provider d:type="cDeltaString">RSSLO_Routes</Provider>
 			<Product d:type="cDeltaString">RSSLO_Allgaubahn</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778696">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751034">
 			<Provider d:type="cDeltaString">RSSLO_Wagons</Provider>
 			<Product d:type="cDeltaString">RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778698">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751036">
 			<Provider d:type="cDeltaString">Railtraction</Provider>
 			<Product d:type="cDeltaString">BR430</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778700">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751038">
 			<Provider d:type="cDeltaString">Railtraction</Provider>
 			<Product d:type="cDeltaString">BR628</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778702">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751040">
 			<Provider d:type="cDeltaString">Railtraction</Provider>
 			<Product d:type="cDeltaString">BR643</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778704">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751042">
 			<Provider d:type="cDeltaString">Railtraction</Provider>
 			<Product d:type="cDeltaString">Lint41</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778706">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751044">
 			<Provider d:type="cDeltaString">Railtraction</Provider>
 			<Product d:type="cDeltaString">Lint27</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778708">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751046">
 			<Provider d:type="cDeltaString">Railtraction</Provider>
 			<Product d:type="cDeltaString">Twindexx</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778710">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751048">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_BR132</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="51778712">
+		<iBlueprintLibrary-cBlueprintSetID d:id="78751050">
 			<Provider d:type="cDeltaString">virtualRailroads</Provider>
 			<Product d:type="cDeltaString">vR_BR232</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
@@ -893,7 +628,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">DFAFFB73778EE02723B0C33301B489E2</MD5>
+	<MD5 d:type="cDeltaString">1FE1777341BD106264441E0B70BB75B3</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
