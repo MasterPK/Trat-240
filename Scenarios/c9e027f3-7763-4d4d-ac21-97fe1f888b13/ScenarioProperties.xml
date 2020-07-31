@@ -21,7 +21,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">e68a3b54-f657-4ad5-b0ac-a80135b4e8d1</Key>
+			<Key d:type="cDeltaString">daf9c705-e9dd-45e5-8c16-74d282487743</Key>
 		</Localisation-cUserLocalisedString>
 	</DisplayName>
 	<Description>
@@ -35,7 +35,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">1a8db35d-57cd-4bd9-a03b-399f5eb22bb3</Key>
+			<Key d:type="cDeltaString">94c8bd70-7cde-4f96-890a-c6561b52ccdb</Key>
 		</Localisation-cUserLocalisedString>
 	</Description>
 	<Briefing>
@@ -49,7 +49,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">ea8afeb2-282f-4315-a76d-0d2b4742b32f</Key>
+			<Key d:type="cDeltaString">aa76dbf4-9418-4ffb-8182-75bf0fafd7fd</Key>
 		</Localisation-cUserLocalisedString>
 	</Briefing>
 	<StartLocation>
@@ -63,7 +63,7 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">604324f8-b447-4aee-adcd-e4eec4706950</Key>
+			<Key d:type="cDeltaString">13ca2af8-0976-47c8-aa74-bd56992b424b</Key>
 		</Localisation-cUserLocalisedString>
 	</StartLocation>
 	<ScenarioClass d:type="cDeltaString">eFreeRoamScenarioClass</ScenarioClass>
@@ -99,76 +99,8 @@
 	<LocoClass d:type="cDeltaString">LOCO_NO_CLASS</LocoClass>
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
-	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="222282242">
-			<ServiceName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Service1</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">9870299e-610d-4f59-be5b-76b71584cec7</Key>
-				</Localisation-cUserLocalisedString>
-			</ServiceName>
-			<LocoName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">ES64U4 OBB 1216</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">215180e0-dcb2-4bbe-a8b5-28074684d7c8</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">HRQ</Provider>
-							<Product d:type="cDeltaString">Taurus</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\ES64U4\OBB\OBB_ES64U4.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">e281225d-c591-4395-94a1-cbd07b6bcf5c</Key>
-				</Localisation-cUserLocalisedString>
-			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">HRQ</LocoAuthor>
-			<FilePath d:type="cDeltaString">HRQ\Taurus\RailVehicles\ES64U4\OBB</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="893F0972F0402F40" d:precision="string">15.6268</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="4CB6222120B44840" d:precision="string">49.4072</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000080DE327E40" d:precision="string">483.179</Height>
-			<PlayerDriver d:type="bool">0</PlayerDriver>
-		</sDriverFrontEndDetails>
-	</FrontEndDriverList>
-	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="293494516">
-			<Provider d:type="cDeltaString">HRQ</Provider>
-			<Product d:type="cDeltaString">Taurus</Product>
-		</iBlueprintLibrary-cBlueprintSetID>
-	</RequiredSet>
+	<FrontEndDriverList/>
+	<RequiredSet/>
 	<Gizmo>
 		<cOwnedEntity d:id="259316858">
 			<Component>
@@ -280,7 +212,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">55044D7A451DA036309E6990651A3603</MD5>
+	<MD5 d:type="cDeltaString">39F5CA0E484B5AA749234754345871C3</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
