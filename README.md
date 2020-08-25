@@ -1,10 +1,8 @@
 # Trať 240 - Fiktivní verze
 
-Jedná se o **FIKTIVNÍ** trať, která má připomínat Trať 240 v úseku Krahulov - Brno. Signalizace je [německá](https://en.wikipedia.org/wiki/German_railway_signalling) s funkčním PZB a v některých úsecích také LZB. Většina tratě je elektrifikovaná a částečně dvoukolejná. Umístění kolejí a objektů může i nemusí odpovídat realitě!
+Jedná se o **FIKTIVNÍ** trať, která má připomínat Trať 240 a okolí. Signalizace je [německá](https://en.wikipedia.org/wiki/German_railway_signalling) s funkčním PZB a v některých úsecích také LZB. Většina tratě je elektrifikovaná a částečně dvoukolejná. Umístění kolejí a objektů může i nemusí odpovídat realitě!
 
-Jedná se o amatérský projekt (můj první pokus o mapu do TS metodou pokus-omyl), mapa není nijak detailně propracovaná, vytvářím ji pro zábavu ve svém volném čase a podle toho jak chci.
-
-V formuláři [ZDE](https://forms.gle/piLFpTtHU7tQD8Ei9) můžete hlásit **důležité** problémy typu špatně položená kolej, nefunkční výhybka, návěstidlo, přejezd, špatně umístěné ryhlostníky, magnety, objekty přímo překážející kolejím(většinou vegetace), atd. Věci typu, že je budova částečně ve vzduchu, nesedí správně terén, překrývající se objekty a další drobnosti, hlásit sice můžete, ale pravděpodobně je neopravím.
+Jedná se o amatérský projekt, mapa není nijak detailně propracovaná, vytvářím ji pro zábavu ve svém volném čase a podle toho jak chci.
 
 ![alt text](https://raw.githubusercontent.com/MasterPK/Trat-240/master/screenshot.png)
 
