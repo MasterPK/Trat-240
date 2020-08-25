@@ -10,12 +10,12 @@ V formuláři [ZDE](https://forms.gle/piLFpTtHU7tQD8Ei9) můžete hlásit **důl
 
 ## Aktuální stav
 
-31.10.2019 byla vydána Druhá beta verze. Z důvodu časové náročnosti je to na delší dobu poslední verze, která je skoro funkční. Více informací [ZDE](https://github.com/MasterPK/Trat-240/releases/tag/v0.2-beta).
+Trať se neustále vyvíjí. Aktuální verzi si zde můžete kdykoliv stáhnout.
 
 ## Technické podrobnosti
 
 ID pro vložení do Train Simulator: 4774ce76-bf43-4c5e-9ee2-910f7d92b863.
-Trať je primárně určena pro TS2019 64-bit a novější, ale pravděpodobně bude fungovat i na jiných verzích. (4.10.2019 upgrade na TS2020)
+Trať je primárně určena pro TS2020, ale pravděpodobně bude fungovat i na jiných verzích.
 
 ### Instalace
 
@@ -38,8 +38,7 @@ Pro instalaci si nejprve stáhněte všechny vyžadované DLC a objekty. Poté s
 - [Domky](http://modely-msts.cz/RW/domy.rar)
 - [Německé poloměry kolejí a výhybek](https://rail-sim.de/forum/wsif/index.php/Entry/2881-Deutsche-Gleis-und-Weichenradien/)
 - [NS Station Objects & scenery](https://www.christrains.com/en/ts_scenery.html)
-
-Pro scénáře doporučuji skvělý model lokomotivy Škoda 109E pod označením ČD 380 od [JachyHm](https://rw.jachyhm.cz/download/2019/04/je-to-tu/) a IC vozy od [Dema](https://rw.jachyhm.cz/download/2019/03/demova-tvorba-do-railworks/).
+- [Route Building Pack 01](https://www.dpsimulation.org.uk/scenery.html)
 
 
 Projekt je distribuován pod licencí MIT.
