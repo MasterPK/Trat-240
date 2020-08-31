@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="243450378">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="116777916">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="195208192">
+		<sDriverFrontEndDetails d:id="545877508">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -112,42 +112,37 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">4fe40d4c-cc0a-4360-a5fa-6defcb4cff82</Key>
+					<Key d:type="cDeltaString">e7601d51-754d-449e-9339-4249543a18e3</Key>
 				</Localisation-cUserLocalisedString>
 			</ServiceName>
 			<LocoName>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">BR 407 1.Kl Endwagon</English>
-					<French d:type="cDeltaString">Wagon de queue BR 407 1.Kl</French>
-					<Italian d:type="cDeltaString">BR 407 1.Kl Vagone di coda</Italian>
-					<German d:type="cDeltaString">BR 407 1.Kl Endwagen</German>
-					<Spanish d:type="cDeltaString">Vagón final BR 407 1.Kl</Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString">BR 407 1.Kl - Ostatni wagon</Polish>
-					<Russian d:type="cDeltaString">BR 407 1.Kl Хвостовой вагон</Russian>
-					<Other>
-						<Localisation-cUserLocalisedString-cOtherStringLangPair>
-							<Language d:type="cDeltaString">zh</Language>
-							<String d:type="cDeltaString">BR 407 1.Kl 终端车厢</String>
-						</Localisation-cUserLocalisedString-cOtherStringLangPair>
-					</Other>
-					<Key d:type="cDeltaString">2297481b-5bb2-48ac-b9a4-01c0268f8610</Key>
+					<English d:type="cDeltaString">MF DB BR146.0 Expert-Line VRot</English>
+					<French d:type="cDeltaString">MF DB BR146.0 Expert-Line VRot</French>
+					<Italian d:type="cDeltaString">MF DB BR146.0 Expert-Line VRot</Italian>
+					<German d:type="cDeltaString">MF DB BR146.0 Expert-Line VRot</German>
+					<Spanish d:type="cDeltaString">MF DB BR146.0 Expert-Line VRot</Spanish>
+					<Dutch d:type="cDeltaString">MF DB BR146.0 Expert-Line VRot</Dutch>
+					<Polish d:type="cDeltaString">MF DB BR146.0 Expert-Line VRot</Polish>
+					<Russian d:type="cDeltaString">MF DB BR146.0 Expert-Line VRot</Russian>
+					<Other/>
+					<Key d:type="cDeltaString">12a1751d-da62-4562-8298-2515dd46f910</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
 				<iBlueprintLibrary-cAbsoluteBlueprintID>
 					<BlueprintSetID>
 						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">DTG</Provider>
-							<Product d:type="cDeltaString">BR407Pack01</Product>
+							<Provider d:type="cDeltaString">Influenzo</Provider>
+							<Product d:type="cDeltaString">BR146-0</Product>
 						</iBlueprintLibrary-cBlueprintSetID>
 					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\BR407\DB\Blueprints\407_0_EW_1.xml</BlueprintID>
+					<BlueprintID d:type="cDeltaString">Elloks\BR146_0-VRot.xml</BlueprintID>
 				</iBlueprintLibrary-cAbsoluteBlueprintID>
 			</LocoBP>
 			<StartLocation>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Rapotice 3/N</English>
+					<English d:type="cDeltaString"></English>
 					<French d:type="cDeltaString"></French>
 					<Italian d:type="cDeltaString"></Italian>
 					<German d:type="cDeltaString"></German>
@@ -156,28 +151,28 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">358105ae-3b73-49b4-aa0f-006253cc2df5</Key>
+					<Key d:type="cDeltaString">451f2c70-55fb-420c-876d-1cfd0da72c2a</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
-			<FilePath d:type="cDeltaString">DTG\BR407Pack01\RailVehicles\Electric\BR407\DB\Blueprints</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="F23F5B8626423040" d:precision="string">16.2584</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="47C07D2A6C974840" d:precision="string">49.183</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000080ED717E40" d:precision="string">487.12</Height>
+			<LocoAuthor d:type="cDeltaString">Influenzo</LocoAuthor>
+			<FilePath d:type="cDeltaString">Influenzo\BR146-0\Elloks</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="2EFF649BA0403040" d:precision="string">16.2525</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="05CC3C91C4974840" d:precision="string">49.1857</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000A0C0527E40" d:precision="string">485.172</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="183729736">
-			<Provider d:type="cDeltaString">DTG</Provider>
-			<Product d:type="cDeltaString">BR407Pack01</Product>
+		<iBlueprintLibrary-cBlueprintSetID d:id="54337880">
+			<Provider d:type="cDeltaString">Influenzo</Provider>
+			<Product d:type="cDeltaString">BR146-0</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="202070374">
+		<cOwnedEntity d:id="116446834">
 			<Component>
-				<cEditorSceneryRender d:id="241896470">
+				<cEditorSceneryRender d:id="116778100">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -185,16 +180,16 @@
 					<Palette1Index d:type="sUInt8">0</Palette1Index>
 					<Palette2Index d:type="sUInt8">0</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="226013066">
+				<cPosOri d:id="116759116">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="226013072">
+						<cFarMatrix d:id="116759122">
 							<Height d:type="sFloat32" d:alt_encoding="000000C0F7737E40" d:precision="string">487.248</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">-0.8183220 0.0000000 0.5747600 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">-0.5747600 0.0000000 -0.8183221 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="226013079">
+								<cFarVector2 d:id="116759129">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -228,7 +223,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="201499774">
+				<cScriptComponent d:id="116440620">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -273,13 +268,17 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="182710818">
+		<iBlueprintLibrary-cBlueprintSetID d:id="54127200">
 			<Provider d:type="cDeltaString">RSC</Provider>
 			<Product d:type="cDeltaString">ES64Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="182710820">
+		<iBlueprintLibrary-cBlueprintSetID d:id="54127202">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR407Pack01</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="54127204">
+			<Provider d:type="cDeltaString">Influenzo</Provider>
+			<Product d:type="cDeltaString">BR146-0</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
 	<NamedEntity/>
@@ -289,7 +288,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">AAB5ACDCECEC0C5D157EFA96E0663920</MD5>
+	<MD5 d:type="cDeltaString">2101DC6EC3BAE1808FDB973BFE7423D5</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
