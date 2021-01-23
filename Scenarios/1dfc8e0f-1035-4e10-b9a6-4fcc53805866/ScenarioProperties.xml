@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="119216176">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="195526344">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -69,10 +69,10 @@
 	<ScenarioClass d:type="cDeltaString">eStandardScenarioClass</ScenarioClass>
 	<StartTime d:type="sFloat32" d:alt_encoding="000000000085E140" d:precision="string">35880</StartTime>
 	<DurationMins d:type="sInt32">0</DurationMins>
-	<StartDD d:type="sInt32">6</StartDD>
-	<StartMM d:type="sInt32">10</StartMM>
-	<StartYYYY d:type="sInt32">2020</StartYYYY>
-	<Season d:type="cDeltaString">SEASON_AUTUMN</Season>
+	<StartDD d:type="sInt32">20</StartDD>
+	<StartMM d:type="sInt32">1</StartMM>
+	<StartYYYY d:type="sInt32">2021</StartYYYY>
+	<Season d:type="cDeltaString">SEASON_WINTER</Season>
 	<WeatherBlueprint>
 		<iBlueprintLibrary-cAbsoluteBlueprintID>
 			<BlueprintSetID>
@@ -81,7 +81,7 @@
 					<Product d:type="cDeltaString">WeatherEP</Product>
 				</iBlueprintLibrary-cBlueprintSetID>
 			</BlueprintSetID>
-			<BlueprintID d:type="cDeltaString">Weather\AP Clear Light Wind.xml</BlueprintID>
+			<BlueprintID d:type="cDeltaString">Weather\AP Light Snow.xml</BlueprintID>
 		</iBlueprintLibrary-cAbsoluteBlueprintID>
 	</WeatherBlueprint>
 	<WeatherExtensionBlueprint>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="251999758">
+		<sDriverFrontEndDetails d:id="221237426">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -131,7 +131,7 @@
 							<String d:type="cDeltaString">BR 407 1.Kl 终端车厢</String>
 						</Localisation-cUserLocalisedString-cOtherStringLangPair>
 					</Other>
-					<Key d:type="cDeltaString">694fb944-8cc2-4cf5-bdf7-510a44215244</Key>
+					<Key d:type="cDeltaString">79114769-3d40-41ee-b2f9-25ed188476f7</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -169,15 +169,15 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="327414466">
+		<iBlueprintLibrary-cBlueprintSetID d:id="142340010">
 			<Provider d:type="cDeltaString">DTG</Provider>
 			<Product d:type="cDeltaString">BR407Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="119120262">
+		<cOwnedEntity d:id="143027476">
 			<Component>
-				<cEditorSceneryRender d:id="119337232">
+				<cEditorSceneryRender d:id="54196600">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -185,16 +185,16 @@
 					<Palette1Index d:type="sUInt8">0</Palette1Index>
 					<Palette2Index d:type="sUInt8">0</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="119337882">
+				<cPosOri d:id="142129140">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="119337888">
+						<cFarMatrix d:id="142129146">
 							<Height d:type="sFloat32" d:alt_encoding="0000006066466940" d:precision="string">202.2</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="119337895">
+								<cFarVector2 d:id="142129153">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -228,7 +228,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="119130898">
+				<cScriptComponent d:id="142595008">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -280,7 +280,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">759E3958111362F056A163BB1055D098</MD5>
+	<MD5 d:type="cDeltaString">9A4523838BE111FB65BC4DC09C463F35</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
