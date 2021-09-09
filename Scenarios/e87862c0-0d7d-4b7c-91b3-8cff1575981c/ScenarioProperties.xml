@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="213630756">
+	<ID>
+		<cGUID>
+			<UUID>
+				<e d:type="sUInt64">5439237284378993344</e>
+				<e d:type="sUInt64">2060525566864176017</e>
+			</UUID>
+			<DevString d:type="cDeltaString">e87862c0-0d7d-4b7c-91b3-8cff1575981c</DevString>
+		</cGUID>
+	</ID>
+	<String/>
+	<DisplayName>
+		<Localisation-cUserLocalisedString>
+			<English d:type="cDeltaString">R11 Brno-Jihlava (22h) 7.7.2021</English>
+			<French d:type="cDeltaString"></French>
+			<Italian d:type="cDeltaString"></Italian>
+			<German d:type="cDeltaString"></German>
+			<Spanish d:type="cDeltaString"></Spanish>
+			<Dutch d:type="cDeltaString"></Dutch>
+			<Polish d:type="cDeltaString"></Polish>
+			<Russian d:type="cDeltaString"></Russian>
+			<Other/>
+			<Key d:type="cDeltaString">263a9a71-b609-43d5-8d28-5b590717e86c</Key>
+		</Localisation-cUserLocalisedString>
+	</DisplayName>
+	<Description>
+		<Localisation-cUserLocalisedString>
+			<English d:type="cDeltaString">&lt;supply description&gt;</English>
+			<French d:type="cDeltaString"></French>
+			<Italian d:type="cDeltaString"></Italian>
+			<German d:type="cDeltaString"></German>
+			<Spanish d:type="cDeltaString"></Spanish>
+			<Dutch d:type="cDeltaString"></Dutch>
+			<Polish d:type="cDeltaString"></Polish>
+			<Russian d:type="cDeltaString"></Russian>
+			<Other/>
+			<Key d:type="cDeltaString">5e1a1368-37c3-47f6-80d4-b486ac6a7174</Key>
+		</Localisation-cUserLocalisedString>
+	</Description>
+	<Briefing>
+		<Localisation-cUserLocalisedString>
+			<English d:type="cDeltaString">&lt;supply briefing&gt;</English>
+			<French d:type="cDeltaString"></French>
+			<Italian d:type="cDeltaString"></Italian>
+			<German d:type="cDeltaString"></German>
+			<Spanish d:type="cDeltaString"></Spanish>
+			<Dutch d:type="cDeltaString"></Dutch>
+			<Polish d:type="cDeltaString"></Polish>
+			<Russian d:type="cDeltaString"></Russian>
+			<Other/>
+			<Key d:type="cDeltaString">7192e311-a67b-442b-bcc2-d812fabb0f5f</Key>
+		</Localisation-cUserLocalisedString>
+	</Briefing>
+	<StartLocation>
+		<Localisation-cUserLocalisedString>
+			<English d:type="cDeltaString"></English>
+			<French d:type="cDeltaString"></French>
+			<Italian d:type="cDeltaString"></Italian>
+			<German d:type="cDeltaString"></German>
+			<Spanish d:type="cDeltaString"></Spanish>
+			<Dutch d:type="cDeltaString"></Dutch>
+			<Polish d:type="cDeltaString"></Polish>
+			<Russian d:type="cDeltaString"></Russian>
+			<Other/>
+			<Key d:type="cDeltaString">4b9f7339-391d-4ca5-8906-f64378e69d5f</Key>
+		</Localisation-cUserLocalisedString>
+	</StartLocation>
+	<ScenarioClass d:type="cDeltaString">eStandardScenarioClass</ScenarioClass>
+	<StartTime d:type="sFloat32" d:alt_encoding="00000000C04AF340" d:precision="string">79020</StartTime>
+	<DurationMins d:type="sInt32">50</DurationMins>
+	<StartDD d:type="sInt32">7</StartDD>
+	<StartMM d:type="sInt32">7</StartMM>
+	<StartYYYY d:type="sInt32">2021</StartYYYY>
+	<Season d:type="cDeltaString">SEASON_SUMMER</Season>
+	<WeatherBlueprint>
+		<iBlueprintLibrary-cAbsoluteBlueprintID>
+			<BlueprintSetID>
+				<iBlueprintLibrary-cBlueprintSetID>
+					<Provider d:type="cDeltaString">Kuju</Provider>
+					<Product d:type="cDeltaString">RailSimulatorCore</Product>
+				</iBlueprintLibrary-cBlueprintSetID>
+			</BlueprintSetID>
+			<BlueprintID d:type="cDeltaString">Weather\SL_Clear.xml</BlueprintID>
+		</iBlueprintLibrary-cAbsoluteBlueprintID>
+	</WeatherBlueprint>
+	<WeatherExtensionBlueprint>
+		<iBlueprintLibrary-cAbsoluteBlueprintID>
+			<BlueprintSetID>
+				<iBlueprintLibrary-cBlueprintSetID>
+					<Provider d:type="cDeltaString"></Provider>
+					<Product d:type="cDeltaString"></Product>
+				</iBlueprintLibrary-cBlueprintSetID>
+			</BlueprintSetID>
+			<BlueprintID d:type="cDeltaString"></BlueprintID>
+		</iBlueprintLibrary-cAbsoluteBlueprintID>
+	</WeatherExtensionBlueprint>
+	<Rating d:type="sInt32">4</Rating>
+	<LocoClass d:type="cDeltaString">LOCO_NO_CLASS</LocoClass>
+	<HasRollingStart d:type="bool">0</HasRollingStart>
+	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
+	<FrontEndDriverList>
+		<sDriverFrontEndDetails d:id="291458682">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">R11</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">d481ef8d-d3f5-4944-9479-55118d9f9af7</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">BR 407 1.Kl Endwagon</English>
+					<French d:type="cDeltaString">Wagon de queue BR 407 1.Kl</French>
+					<Italian d:type="cDeltaString">BR 407 1.Kl Vagone di coda</Italian>
+					<German d:type="cDeltaString">BR 407 1.Kl Endwagen</German>
+					<Spanish d:type="cDeltaString">Vagón final BR 407 1.Kl</Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString">BR 407 1.Kl - Ostatni wagon</Polish>
+					<Russian d:type="cDeltaString">BR 407 1.Kl Хвостовой вагон</Russian>
+					<Other>
+						<Localisation-cUserLocalisedString-cOtherStringLangPair>
+							<Language d:type="cDeltaString">zh</Language>
+							<String d:type="cDeltaString">BR 407 1.Kl 终端车厢</String>
+						</Localisation-cUserLocalisedString-cOtherStringLangPair>
+					</Other>
+					<Key d:type="cDeltaString">f99489e5-52c8-4c1c-8723-f8d89740dfb9</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">DTG</Provider>
+							<Product d:type="cDeltaString">BR407Pack01</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\BR407\DB\Blueprints\407_0_EW_1.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Brno hl.n. 1/1</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">33edf003-d67c-4cf0-a54b-521ad3f643ad</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">DTG</LocoAuthor>
+			<FilePath d:type="cDeltaString">DTG\BR407Pack01\RailVehicles\Electric\BR407\DB\Blueprints</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="77CFAF3A689C3040" d:precision="string">16.611</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="0221E83F54984840" d:precision="string">49.1901</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="0000008032426940" d:precision="string">202.069</Height>
+			<PlayerDriver d:type="bool">1</PlayerDriver>
+		</sDriverFrontEndDetails>
+	</FrontEndDriverList>
+	<RequiredSet>
+		<iBlueprintLibrary-cBlueprintSetID d:id="414499428">
+			<Provider d:type="cDeltaString">DTG</Provider>
+			<Product d:type="cDeltaString">BR407Pack01</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+	</RequiredSet>
+	<Gizmo>
+		<cOwnedEntity d:id="213636174">
+			<Component>
+				<cEditorSceneryRender d:id="213637456">
+					<DetailLevel d:type="sInt32">10</DetailLevel>
+					<Global d:type="bool">0</Global>
+					<Saved d:type="bool">1</Saved>
+					<Palette0Index d:type="sUInt8">0</Palette0Index>
+					<Palette1Index d:type="sUInt8">0</Palette1Index>
+					<Palette2Index d:type="sUInt8">0</Palette2Index>
+				</cEditorSceneryRender>
+				<cPosOri d:id="213048460">
+					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
+					<RFarMatrix>
+						<cFarMatrix d:id="213048466">
+							<Height d:type="sFloat32" d:alt_encoding="0000006066466940" d:precision="string">202.2</Height>
+							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
+							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
+							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
+							<RFarPosition>
+								<cFarVector2 d:id="213048473">
+									<X>
+										<cFarCoordinate>
+											<RouteCoordinate>
+												<cRouteCoordinate>
+													<Distance d:type="sInt32">52</Distance>
+												</cRouteCoordinate>
+											</RouteCoordinate>
+											<TileCoordinate>
+												<cTileCoordinate>
+													<Distance d:type="sFloat32" d:alt_encoding="000000801D383640" d:precision="string">22.2192</Distance>
+												</cTileCoordinate>
+											</TileCoordinate>
+										</cFarCoordinate>
+									</X>
+									<Z>
+										<cFarCoordinate>
+											<RouteCoordinate>
+												<cRouteCoordinate>
+													<Distance d:type="sInt32">-2</Distance>
+												</cRouteCoordinate>
+											</RouteCoordinate>
+											<TileCoordinate>
+												<cTileCoordinate>
+													<Distance d:type="sFloat32" d:alt_encoding="00000020612B5740" d:precision="string">92.6778</Distance>
+												</cTileCoordinate>
+											</TileCoordinate>
+										</cFarCoordinate>
+									</Z>
+								</cFarVector2>
+							</RFarPosition>
+						</cFarMatrix>
+					</RFarMatrix>
+				</cPosOri>
+				<cScriptComponent d:id="213639246">
+					<DebugDisplay d:type="bool">1</DebugDisplay>
+					<StateName d:type="cDeltaString"></StateName>
+				</cScriptComponent>
+			</Component>
+			<BlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">Kuju</Provider>
+							<Product d:type="cDeltaString">RailSimulatorCore</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Editor\Gizmo\Scenario Markers\Standard Scenario Marker.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</BlueprintID>
+			<ReskinBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</ReskinBlueprintID>
+			<Name d:type="cDeltaString">Standard Scenario Marker</Name>
+			<EntityID>
+				<cGUID>
+					<UUID>
+						<e d:type="sUInt64">4781054981669524896</e>
+						<e d:type="sUInt64">13695034097650180503</e>
+					</UUID>
+					<DevString d:type="cDeltaString">ba0615a0-b82c-4259-9721-4dd1f3880ebe</DevString>
+				</cGUID>
+			</EntityID>
+		</cOwnedEntity>
+	</Gizmo>
+	<SimulationTime d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</SimulationTime>
+	<AuthoredLanguage d:type="cDeltaString">en</AuthoredLanguage>
+	<Version d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</Version>
+	<Author d:type="cDeltaString"></Author>
+	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
+	<RBlueprintSetPreLoad>
+		<iBlueprintLibrary-cBlueprintSetID d:id="28518270">
+			<Provider d:type="cDeltaString">DTG</Provider>
+			<Product d:type="cDeltaString">ICETDPack01</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="28518272">
+			<Provider d:type="cDeltaString">DTG</Provider>
+			<Product d:type="cDeltaString">LubeckKiel</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="28518274">
+			<Provider d:type="cDeltaString">DTG</Provider>
+			<Product d:type="cDeltaString">BR648Pack01</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="28518276">
+			<Provider d:type="cDeltaString">DTG</Provider>
+			<Product d:type="cDeltaString">BR407Pack01</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+	</RBlueprintSetPreLoad>
+	<NamedEntity/>
+	<Condition/>
+	<DeferredEvent/>
+	<CheckedCondition/>
+	<CareerRules>
+		<d:nil/>
+	</CareerRules>
+	<MD5 d:type="cDeltaString">9D95FD7B0EABEB0417FDB60326FB48D1</MD5>
+	<MessageEvent/>
+	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
+	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
+	<LocksScenario/>
+	<StartDestString/>
+	<TemplateStartDestMapping/>
+	<IsTemplateGenerated d:type="bool">0</IsTemplateGenerated>
+	<TemplateScenarioGUID>
+		<cGUID>
+			<UUID>
+				<e d:type="sUInt64">0</e>
+				<e d:type="sUInt64">0</e>
+			</UUID>
+			<DevString d:type="cDeltaString">00000000-0000-0000-0000-000000000000</DevString>
+		</cGUID>
+	</TemplateScenarioGUID>
+	<WorkshopId d:type="sUInt64">0</WorkshopId>
+	<WorkshopBy d:type="sUInt64">0</WorkshopBy>
+	<WorkshopTags d:type="cDeltaString"></WorkshopTags>
+	<StartInCab d:type="bool">0</StartInCab>
+	<IsClonedDLC d:type="bool">0</IsClonedDLC>
+	<StartLongitude d:type="sFloat64" d:alt_encoding="0000000000000000" d:precision="string">0</StartLongitude>
+	<StartLatitude d:type="sFloat64" d:alt_encoding="0000000000000000" d:precision="string">0</StartLatitude>
+	<StartHeight d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</StartHeight>
+	<QuickDriveStartName d:type="cDeltaString"></QuickDriveStartName>
+	<QuickDriveEndName d:type="cDeltaString"></QuickDriveEndName>
+	<QuickDrivePlayerConsistName d:type="cDeltaString"></QuickDrivePlayerConsistName>
+</cScenarioProperties>
