@@ -1,8 +1,8 @@
 # Trať 240 - Fiktivní verze
 
-Jedná se o **FIKTIVNÍ** trať, která má připomínat Trať 240 a okolí. Signalizace je [německá](https://en.wikipedia.org/wiki/German_railway_signalling) s funkčním PZB a v některých úsecích také LZB. Většina tratě je elektrifikovaná a částečně dvoukolejná. Umístění kolejí a objektů může i nemusí odpovídat realitě!
+Jedná se o **FIKTIVNÍ** trať, která má připomínat Trať 240 a okolí. Signalizace je [německá](https://en.wikipedia.org/wiki/German_railway_signalling) s funkčním PZB a v některých úsecích také LZB. Většina tratě je elektrifikovaná a částečně dvoukolejná.
 
-Jedná se o amatérský projekt, mapa není nijak detailně propracovaná, vytvářím ji pro zábavu ve svém volném čase a podle toho jak chci.
+Jedná se o amatérský projekt, mapa není nijak detailně propracovaná, vytvářím ji pro zábavu ve svém volném čase a podle toho jak bych si železnici představuji.
 
 ![alt text](https://raw.githubusercontent.com/MasterPK/Trat-240/master/screenshot.png)
 
@@ -37,6 +37,8 @@ Pro instalaci si nejprve stáhněte všechny vyžadované DLC a objekty. Poté s
 - [Německé poloměry kolejí a výhybek](https://rail-sim.de/forum/wsif/index.php/Entry/2881-Deutsche-Gleis-und-Weichenradien/)
 - [NS Station Objects & scenery](https://www.christrains.com/en/ts_scenery.html)
 - [Route Building Pack 01](https://www.dpsimulation.org.uk/scenery.html)
+- https://rail-sim.de/forum/filebase/entry/1261-signalteam-deutsche-hv-signale-v9-5/
+- https://www.uktrainsim.com/FreewarePacks/index.php?p=ThePacks&pack_type=Scenic+Assets
 
 
 Projekt je distribuován pod licencí MIT.
