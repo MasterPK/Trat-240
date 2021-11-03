@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="640354686">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="265079578">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -12,7 +12,7 @@
 	<String/>
 	<DisplayName>
 		<Localisation-cUserLocalisedString>
-			<English d:type="cDeltaString">Sp B 17:00</English>
+			<English d:type="cDeltaString">Sp4 Brno -&gt; Jihlava 17:00 2.11.2021 (DB101+5xIC)</English>
 			<French d:type="cDeltaString"></French>
 			<Italian d:type="cDeltaString"></Italian>
 			<German d:type="cDeltaString"></German>
@@ -68,11 +68,11 @@
 	</StartLocation>
 	<ScenarioClass d:type="cDeltaString">eStandardScenarioClass</ScenarioClass>
 	<StartTime d:type="sFloat32" d:alt_encoding="0000000000D3ED40" d:precision="string">61080</StartTime>
-	<DurationMins d:type="sInt32">0</DurationMins>
-	<StartDD d:type="sInt32">17</StartDD>
-	<StartMM d:type="sInt32">10</StartMM>
-	<StartYYYY d:type="sInt32">2020</StartYYYY>
-	<Season d:type="cDeltaString">SEASON_SUMMER</Season>
+	<DurationMins d:type="sInt32">60</DurationMins>
+	<StartDD d:type="sInt32">2</StartDD>
+	<StartMM d:type="sInt32">11</StartMM>
+	<StartYYYY d:type="sInt32">2021</StartYYYY>
+	<Season d:type="cDeltaString">SEASON_AUTUMN</Season>
 	<WeatherBlueprint>
 		<iBlueprintLibrary-cAbsoluteBlueprintID>
 			<BlueprintSetID>
@@ -81,7 +81,7 @@
 					<Product d:type="cDeltaString">WeatherEP</Product>
 				</iBlueprintLibrary-cBlueprintSetID>
 			</BlueprintSetID>
-			<BlueprintID d:type="cDeltaString">Weather\AP Thick Mist.xml</BlueprintID>
+			<BlueprintID d:type="cDeltaString">Weather\AP Fair Cloud with Haze.xml</BlueprintID>
 		</iBlueprintLibrary-cAbsoluteBlueprintID>
 	</WeatherBlueprint>
 	<WeatherExtensionBlueprint>
@@ -95,12 +95,12 @@
 			<BlueprintID d:type="cDeltaString"></BlueprintID>
 		</iBlueprintLibrary-cAbsoluteBlueprintID>
 	</WeatherExtensionBlueprint>
-	<Rating d:type="sInt32">1</Rating>
+	<Rating d:type="sInt32">4</Rating>
 	<LocoClass d:type="cDeltaString">LOCO_NO_CLASS</LocoClass>
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="266303080">
+		<sDriverFrontEndDetails d:id="289603626">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -117,27 +117,27 @@
 			</ServiceName>
 			<LocoName>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">ICE 3M High Speed Train</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
+					<English d:type="cDeltaString">vR BR101 Expert-Line ICE dynamic number</English>
+					<French d:type="cDeltaString">vR BR101 Expert-Line ICE dynamic number</French>
+					<Italian d:type="cDeltaString">vR BR101 Expert-Line ICE dynamic number</Italian>
+					<German d:type="cDeltaString">vR BR101 Expert-Line ICE dynamische Nummer</German>
+					<Spanish d:type="cDeltaString">vR BR101 Expert-Line ICE dynamic number</Spanish>
+					<Dutch d:type="cDeltaString">vR BR101 Expert-Line ICE dynamic number</Dutch>
+					<Polish d:type="cDeltaString">vR BR101 Expert-Line ICE dynamic number</Polish>
+					<Russian d:type="cDeltaString">vR BR101 Expert-Line ICE dynamic number</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">RS_TXT_ICE3M_DB</Key>
+					<Key d:type="cDeltaString">131baada-ae7d-4f85-84af-829d388a371a</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
 				<iBlueprintLibrary-cAbsoluteBlueprintID>
 					<BlueprintSetID>
 						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">RSC</Provider>
-							<Product d:type="cDeltaString">ICE3Pack01</Product>
+							<Provider d:type="cDeltaString">virtualRailroads</Provider>
+							<Product d:type="cDeltaString">vR_BR101_ICE_EL</Product>
 						</iBlueprintLibrary-cBlueprintSetID>
 					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\Electric\ICE3\Default\Engine\ICE3_driving_A.xml</BlueprintID>
+					<BlueprintID d:type="cDeltaString">Elloks\BR101\BR101-VRot_MET_ICE.xml</BlueprintID>
 				</iBlueprintLibrary-cAbsoluteBlueprintID>
 			</LocoBP>
 			<StartLocation>
@@ -155,24 +155,28 @@
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">RSC</LocoAuthor>
-			<FilePath d:type="cDeltaString">RSC\ICE3Pack01\RailVehicles\Electric\ICE3\Default\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="B6B4B849E99B3040" d:precision="string">16.609</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="1CBD8F850D984840" d:precision="string">49.1879</Latitude>
+			<LocoAuthor d:type="cDeltaString">virtualRailroads</LocoAuthor>
+			<FilePath d:type="cDeltaString">virtualRailroads\vR_BR101_ICE_EL\Elloks\BR101</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="8524B421E79B3040" d:precision="string">16.609</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="B9BFE6950B984840" d:precision="string">49.1879</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="0000008032426940" d:precision="string">202.069</Height>
 			<PlayerDriver d:type="bool">1</PlayerDriver>
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="254898732">
-			<Provider d:type="cDeltaString">RSC</Provider>
-			<Product d:type="cDeltaString">ICE3Pack01</Product>
+		<iBlueprintLibrary-cBlueprintSetID d:id="28583818">
+			<Provider d:type="cDeltaString">virtualRailroads</Provider>
+			<Product d:type="cDeltaString">vR_Apmbzf_ICE</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="28583820">
+			<Provider d:type="cDeltaString">virtualRailroads</Provider>
+			<Product d:type="cDeltaString">vR_BR101_ICE_EL</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="230404814">
+		<cOwnedEntity d:id="265102138">
 			<Component>
-				<cEditorSceneryRender d:id="642481000">
+				<cEditorSceneryRender d:id="265113516">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -180,16 +184,16 @@
 					<Palette1Index d:type="sUInt8">0</Palette1Index>
 					<Palette2Index d:type="sUInt8">0</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="761469788">
+				<cPosOri d:id="265097076">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="761469794">
+						<cFarMatrix d:id="265097082">
 							<Height d:type="sFloat32" d:alt_encoding="0000006066466940" d:precision="string">202.2</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="761469801">
+								<cFarVector2 d:id="265097089">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -199,7 +203,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="0000002095D08C40" d:precision="string">922.073</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="0000008095D08C40" d:precision="string">922.073</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -213,7 +217,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="00000000611E8B40" d:precision="string">867.797</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="00000040601E8B40" d:precision="string">867.797</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -223,7 +227,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="271881996">
+				<cScriptComponent d:id="265110704">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -267,7 +271,20 @@
 	<Version d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</Version>
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
-	<RBlueprintSetPreLoad/>
+	<RBlueprintSetPreLoad>
+		<iBlueprintLibrary-cBlueprintSetID d:id="209781440">
+			<Provider d:type="cDeltaString">virtualRailroads</Provider>
+			<Product d:type="cDeltaString">vR_BR101_ICE_EL</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="209781442">
+			<Provider d:type="cDeltaString">virtualRailroads</Provider>
+			<Product d:type="cDeltaString">vR_Apmbzf_ICE</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="209781444">
+			<Provider d:type="cDeltaString">virtualRailroads</Provider>
+			<Product d:type="cDeltaString">vR_Bpmbdzf_101</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+	</RBlueprintSetPreLoad>
 	<NamedEntity/>
 	<Condition/>
 	<DeferredEvent/>
@@ -275,7 +292,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">5418118A9674DE90C68A7144AC9BFFB4</MD5>
+	<MD5 d:type="cDeltaString">52AD1B7C3C982D5FFC8503EDE00E2083</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
