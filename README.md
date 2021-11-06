@@ -38,6 +38,7 @@ Pro instalaci si nejprve stáhněte všechny vyžadované DLC a objekty. Poté s
 - [NS Station Objects & scenery](https://www.christrains.com/en/ts_scenery.html)
 - [Route Building Pack 01](https://www.dpsimulation.org.uk/scenery.html)
 - https://rail-sim.de/forum/filebase/entry/1261-signalteam-deutsche-hv-signale-v9-5/
+- https://rail-sim.de/forum/filebase/entry/2921-signalteam-deutsche-ks-signale-v9-5/
 - https://www.uktrainsim.com/FreewarePacks/index.php?p=ThePacks&pack_type=Scenic+Assets
 
 
