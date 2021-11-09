@@ -81,7 +81,7 @@
 					<Product d:type="cDeltaString">Hekl</Product>
 				</iBlueprintLibrary-cBlueprintSetID>
 			</BlueprintSetID>
-			<BlueprintID d:type="cDeltaString">Weather\blueprint\CS_3D_Zatazeno.xml</BlueprintID>
+			<BlueprintID d:type="cDeltaString">Weather\blueprint\CS_skorojasno.xml</BlueprintID>
 		</iBlueprintLibrary-cAbsoluteBlueprintID>
 	</WeatherBlueprint>
 	<WeatherExtensionBlueprint>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="516026586">
+		<sDriverFrontEndDetails d:id="516030394">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -126,7 +126,7 @@
 					<Polish d:type="cDeltaString">OEBB 1216 2xx CD Railjet</Polish>
 					<Russian d:type="cDeltaString">OEBB 1216 2xx CD Railjet</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">a26fbe35-a414-4cdc-b0cc-2824e936e91c</Key>
+					<Key d:type="cDeltaString">5b30338f-e4f8-43ef-87e9-8a4f774599e2</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -288,7 +288,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">BD2F62B2DB5467B970FCCB7584C69400</MD5>
+	<MD5 d:type="cDeltaString">11FADB82B5C24E9EB1386DF73B6F91DB</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
