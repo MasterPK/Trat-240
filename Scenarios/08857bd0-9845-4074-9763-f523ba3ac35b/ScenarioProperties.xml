@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="304048130">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="212172228">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -12,7 +12,7 @@
 	<String/>
 	<DisplayName>
 		<Localisation-cUserLocalisedString>
-			<English d:type="cDeltaString">S51 Trebic -&gt; MB (14h) 29.10.2021</English>
+			<English d:type="cDeltaString">S51 Trebic -&gt; MB (14h) 9.11.2021</English>
 			<French d:type="cDeltaString"></French>
 			<Italian d:type="cDeltaString"></Italian>
 			<German d:type="cDeltaString"></German>
@@ -67,21 +67,21 @@
 		</Localisation-cUserLocalisedString>
 	</StartLocation>
 	<ScenarioClass d:type="cDeltaString">eStandardScenarioClass</ScenarioClass>
-	<StartTime d:type="sFloat32" d:alt_encoding="000000008076E840" d:precision="string">50100</StartTime>
+	<StartTime d:type="sFloat32" d:alt_encoding="000000008085E840" d:precision="string">50220</StartTime>
 	<DurationMins d:type="sInt32">25</DurationMins>
-	<StartDD d:type="sInt32">29</StartDD>
-	<StartMM d:type="sInt32">10</StartMM>
+	<StartDD d:type="sInt32">9</StartDD>
+	<StartMM d:type="sInt32">11</StartMM>
 	<StartYYYY d:type="sInt32">2021</StartYYYY>
 	<Season d:type="cDeltaString">SEASON_AUTUMN</Season>
 	<WeatherBlueprint>
 		<iBlueprintLibrary-cAbsoluteBlueprintID>
 			<BlueprintSetID>
 				<iBlueprintLibrary-cBlueprintSetID>
-					<Provider d:type="cDeltaString">AP</Provider>
-					<Product d:type="cDeltaString">WeatherEP</Product>
+					<Provider d:type="cDeltaString">CS_addon</Provider>
+					<Product d:type="cDeltaString">Hekl</Product>
 				</iBlueprintLibrary-cBlueprintSetID>
 			</BlueprintSetID>
-			<BlueprintID d:type="cDeltaString">Weather\AP Variable Fog 1.xml</BlueprintID>
+			<BlueprintID d:type="cDeltaString">Weather\blueprint\CS_3D_SkoroJasno.xml</BlueprintID>
 		</iBlueprintLibrary-cAbsoluteBlueprintID>
 	</WeatherBlueprint>
 	<WeatherExtensionBlueprint>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="378257296">
+		<sDriverFrontEndDetails d:id="218506952">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -117,16 +117,16 @@
 			</ServiceName>
 			<LocoName>
 				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">OBB 2016</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString">OBB 2016</German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
+					<English d:type="cDeltaString">DB 612_B_IC</English>
+					<French d:type="cDeltaString">DB 612_B_IC</French>
+					<Italian d:type="cDeltaString">DB 612_B_IC</Italian>
+					<German d:type="cDeltaString">DB 612_B_IC</German>
+					<Spanish d:type="cDeltaString">DB 612_B_IC</Spanish>
+					<Dutch d:type="cDeltaString">DB 612_B_IC</Dutch>
+					<Polish d:type="cDeltaString">DB 612_B_IC</Polish>
+					<Russian d:type="cDeltaString">DB 612_B_IC</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">7850a084-a3d6-4541-b273-3236914980f6</Key>
+					<Key d:type="cDeltaString">6f419d19-62d7-4c76-81c6-5c0745284318</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -134,10 +134,10 @@
 					<BlueprintSetID>
 						<iBlueprintLibrary-cBlueprintSetID>
 							<Provider d:type="cDeltaString">RSSLO</Provider>
-							<Product d:type="cDeltaString">Locomotiv</Product>
+							<Product d:type="cDeltaString">BR612</Product>
 						</iBlueprintLibrary-cBlueprintSetID>
 					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">Obb2016\Engine\Obb2016.xml</BlueprintID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Engine\DB612_IC\DB612_B.xml</BlueprintID>
 				</iBlueprintLibrary-cAbsoluteBlueprintID>
 			</LocoBP>
 			<StartLocation>
@@ -156,27 +156,23 @@
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">RSSLO</LocoAuthor>
-			<FilePath d:type="cDeltaString">RSSLO\Locomotiv\Obb2016\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="2972D436F5C42F40" d:precision="string">15.8847</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="EBFE95990B9B4840" d:precision="string">49.2113</Latitude>
+			<FilePath d:type="cDeltaString">RSSLO\BR612\RailVehicles\Engine\DB612_IC</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="44B1FB53D8C42F40" d:precision="string">15.8845</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="4D82B4D40B9B4840" d:precision="string">49.2113</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000E063617B40" d:precision="string">438.087</Height>
 			<PlayerDriver d:type="bool">1</PlayerDriver>
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="455285940">
+		<iBlueprintLibrary-cBlueprintSetID d:id="244916066">
 			<Provider d:type="cDeltaString">RSSLO</Provider>
-			<Product d:type="cDeltaString">Locomotiv</Product>
-		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="455285942">
-			<Provider d:type="cDeltaString">RWAustria</Provider>
-			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
+			<Product d:type="cDeltaString">BR612</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="314926582">
+		<cOwnedEntity d:id="152669088">
 			<Component>
-				<cEditorSceneryRender d:id="569906612">
+				<cEditorSceneryRender d:id="54781290">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -184,16 +180,16 @@
 					<Palette1Index d:type="sUInt8">0</Palette1Index>
 					<Palette2Index d:type="sUInt8">0</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="554166238">
+				<cPosOri d:id="153241404">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="554166244">
-							<Height d:type="sFloat32" d:alt_encoding="000000807D637B40" d:precision="string">438.218</Height>
+						<cFarMatrix d:id="153241410">
+							<Height d:type="sFloat32" d:alt_encoding="000000E07C637B40" d:precision="string">438.218</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="554166251">
+								<cFarVector2 d:id="153241417">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -203,7 +199,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="00000000D2017240" d:precision="string">288.114</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="00000000D3017240" d:precision="string">288.114</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -217,7 +213,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="00000060C69B8140" d:precision="string">563.472</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="000000A0C69B8140" d:precision="string">563.472</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -227,7 +223,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="554273326">
+				<cScriptComponent d:id="153245048">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -271,7 +267,16 @@
 	<Version d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</Version>
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
-	<RBlueprintSetPreLoad/>
+	<RBlueprintSetPreLoad>
+		<iBlueprintLibrary-cBlueprintSetID d:id="152566008">
+			<Provider d:type="cDeltaString">SHG</Provider>
+			<Product d:type="cDeltaString">OBB1144Pack01</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="152566010">
+			<Provider d:type="cDeltaString">RSSLO</Provider>
+			<Product d:type="cDeltaString">BR247</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+	</RBlueprintSetPreLoad>
 	<NamedEntity/>
 	<Condition/>
 	<DeferredEvent/>
@@ -279,7 +284,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">63597BD6C4DF854CD842147D19383228</MD5>
+	<MD5 d:type="cDeltaString">660205294D9CFA5BDE5F8441EA45AB4C</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
