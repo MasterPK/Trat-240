@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="289989170">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="284549478">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="289433278">
+		<sDriverFrontEndDetails d:id="294454066">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -126,7 +126,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">59d42d1b-a435-42bc-b213-93a1cf7e81ad</Key>
+					<Key d:type="cDeltaString">cc0a555a-c8ec-42dc-8b50-82641437546f</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -157,30 +157,30 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">Kal000px</LocoAuthor>
 			<FilePath d:type="cDeltaString">Kal000px\193pack01\RailVehicles\Electric\X4E 001</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="2D55B99D98C42F40" d:precision="string">15.884</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="32B1631C0E9B4840" d:precision="string">49.2114</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="4272C09D98C42F40" d:precision="string">15.884</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="DF7F621C0E9B4840" d:precision="string">49.2114</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000E063617B40" d:precision="string">438.087</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="291172688">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43725336">
 			<Provider d:type="cDeltaString">Dem</Provider>
 			<Product d:type="cDeltaString">Osobni vozy</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="291172690">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43725338">
 			<Provider d:type="cDeltaString">Kal000px</Provider>
 			<Product d:type="cDeltaString">193pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="291172692">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43725340">
 			<Provider d:type="cDeltaString">RailStudio</Provider>
 			<Product d:type="cDeltaString">RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="335415250">
+		<cOwnedEntity d:id="265844994">
 			<Component>
-				<cEditorSceneryRender d:id="335865926">
+				<cEditorSceneryRender d:id="318347418">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -188,16 +188,16 @@
 					<Palette1Index d:type="sUInt8">0</Palette1Index>
 					<Palette2Index d:type="sUInt8">0</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="386663108">
+				<cPosOri d:id="619364634">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="386663114">
-							<Height d:type="sFloat32" d:alt_encoding="000000C0C1867B40" d:precision="string">440.422</Height>
+						<cFarMatrix d:id="619364640">
+							<Height d:type="sFloat32" d:alt_encoding="00000080C0867B40" d:precision="string">440.422</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="386663121">
+								<cFarVector2 d:id="619364647">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -207,7 +207,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="000000C0AB828140" d:precision="string">560.334</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="00000000AC828140" d:precision="string">560.334</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -221,7 +221,7 @@
 											</RouteCoordinate>
 											<TileCoordinate>
 												<cTileCoordinate>
-													<Distance d:type="sFloat32" d:alt_encoding="000000208AE48040" d:precision="string">540.567</Distance>
+													<Distance d:type="sFloat32" d:alt_encoding="0000004089E48040" d:precision="string">540.567</Distance>
 												</cTileCoordinate>
 											</TileCoordinate>
 										</cFarCoordinate>
@@ -231,7 +231,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="267891660">
+				<cScriptComponent d:id="448849772">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -276,23 +276,23 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="193816880">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43382902">
 			<Provider d:type="cDeltaString">Kal000px</Provider>
 			<Product d:type="cDeltaString">193pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="193816882">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43382904">
 			<Provider d:type="cDeltaString">Dem</Provider>
 			<Product d:type="cDeltaString">Osobni vozy</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="193816884">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43382906">
 			<Provider d:type="cDeltaString">DPSimulation</Provider>
 			<Product d:type="cDeltaString">RBP01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="193816886">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43382908">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">C3rv</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="193816888">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43382910">
 			<Provider d:type="cDeltaString">CS_addon</Provider>
 			<Product d:type="cDeltaString">Pikku</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
@@ -304,7 +304,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">4864AFC4443EC281DCD2DF6B87F82E71</MD5>
+	<MD5 d:type="cDeltaString">6AE66B78FBDB0C056C9CACD22648F4A8</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
