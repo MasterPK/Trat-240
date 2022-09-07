@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="243357614">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="236665332">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="282483538">
+		<sDriverFrontEndDetails d:id="302022516">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Service1</English>
@@ -126,7 +126,7 @@
 					<Polish d:type="cDeltaString">OEBB 1116 248 RedBull</Polish>
 					<Russian d:type="cDeltaString">OEBB 1116 248 RedBull</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">2e35293a-150f-4bf2-8c2f-b75a7c4c322b</Key>
+					<Key d:type="cDeltaString">671c2968-5399-4482-a3d3-7b86e36ec865</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -164,23 +164,23 @@
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="45647616">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43402500">
 			<Provider d:type="cDeltaString">RWAustria</Provider>
 			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="45647618">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43402502">
 			<Provider d:type="cDeltaString">RWAustria</Provider>
 			<Product d:type="cDeltaString">OEBB_8073</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="45647620">
+		<iBlueprintLibrary-cBlueprintSetID d:id="43402504">
 			<Provider d:type="cDeltaString">RWAustria_2</Provider>
 			<Product d:type="cDeltaString">Austria_RailVehicles</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="243326668">
+		<cOwnedEntity d:id="174337310">
 			<Component>
-				<cEditorSceneryRender d:id="243355714">
+				<cEditorSceneryRender d:id="236673824">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -188,16 +188,16 @@
 					<Palette1Index d:type="sUInt8">0</Palette1Index>
 					<Palette2Index d:type="sUInt8">0</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="243360318">
+				<cPosOri d:id="236659876">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="243360324">
+						<cFarMatrix d:id="236659882">
 							<Height d:type="sFloat32" d:alt_encoding="0000006066466940" d:precision="string">202.2</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="243360331">
+								<cFarVector2 d:id="236659889">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -231,7 +231,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="243334136">
+				<cScriptComponent d:id="236675416">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -283,8 +283,21 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">AC3A13CB2A0069D8587CA393138327CA</MD5>
-	<MessageEvent/>
+	<MD5 d:type="cDeltaString">EA662AD57B81CE643AA65995EAFDCE25</MD5>
+	<MessageEvent>
+		<cScenarioProperties-cMessageEvent d:id="323111324">
+			<Name d:type="cDeltaString">1</Name>
+			<Id d:type="sInt32">1000</Id>
+		</cScenarioProperties-cMessageEvent>
+		<cScenarioProperties-cMessageEvent d:id="323111396">
+			<Name d:type="cDeltaString">1</Name>
+			<Id d:type="sInt32">1001</Id>
+		</cScenarioProperties-cMessageEvent>
+		<cScenarioProperties-cMessageEvent d:id="323111412">
+			<Name d:type="cDeltaString">1</Name>
+			<Id d:type="sInt32">1002</Id>
+		</cScenarioProperties-cMessageEvent>
+	</MessageEvent>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
 	<LocksScenario/>
